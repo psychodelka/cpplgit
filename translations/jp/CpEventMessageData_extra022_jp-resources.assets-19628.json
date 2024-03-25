@@ -1,0 +1,5507 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra022_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "と、扉ってこれ？！",
+            "幻影って……どう見ても本物に見えるけど……！",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "頭から飛び込む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、扉ってこれ？！",
+            "幻影って……どう見ても本物に見えるけど……！",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "頭から飛び込む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッが！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "撮っても　撮っても　お前のしにがお",
+            "ゆがんでく　くずれてく　ちぎれてく",
+            "お前のしにがお"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "内への扉は　悪意ある幻影だ",
+            "心を強く持ち　頭から飛び込め",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひィッ！　……ひいいぃぃぃーーーッ！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "かえひて……エエエェェェェェェェェ！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひた！",
+            "",
+            ""
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グァ！！　……アアァッッ",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "め！！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッ！！！　……ギアアァーーーーーーーッッ！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ガアアウウウウゥゥゥゥ……！！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "助へてェェェェ！！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウウウウウウゥゥゥゥゥゥゥ……！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ゴポ",
+            "文字表示:",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "これ、ちがう……",
+            "",
+            ""
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぉ……ォ……",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁ！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひいぃッ……！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　何者かが扉を押さえているようで、",
+            "　開ける事が出来ません。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　奥に扉がありますが、ガチリと",
+            "　空間に固定されていて開きません……",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　役に立ちそうなものはありません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外は真っ暗で、何も見えません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外は真っ暗で、何も見えません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外は真っ暗で、何も見えません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外は真っ暗で、何も見えません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外は真っ暗で、何も見えません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだこいつら、邪魔しやがって！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "このままじゃ、外に出れないよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 36,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "こいつらをどこかに引き付けておけると",
+            "いいんだが……",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お前、なんか持ってねーか？",
+            "子供が喜びそうなもんとかよ……",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　何か思いついたのか、大川は制服のポケットを",
+            "　ゴソゴソと探った。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……こ、これは！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 37,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……これはウサギか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウサギじゃない。『魔破少女パンツァール』の",
+            "『サンクタムくん』のラバーストラップ。",
+            "そんなことも知らないの？"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 38,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "知るかよ。ホントにそれ子供向けか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 83,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大人も子供も楽しめるのが最高のエンタメさ！",
+            "可愛いだろ？",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 39,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "サンクタムくんを置きますか？",
+            " ",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい",
+            "いいえ",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "ど、どうかな……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 40,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　青い人魂たちが",
+            "　ラバーストラップに近寄っていく。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……おお、効いてんな。",
+            "……ははっ、幽霊っていってもやっぱガキだな。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹・大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うっ、うわああああああああ――――！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹・大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんか怪しいぞ。",
+            "俺はコンビニのバイトをしてるが、子供用の",
+            "お菓子コーナーにそのキャラの商品はなかった。"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "むしろ大人が買ってく、",
+            "くじのほうで見たことある気がする。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あぁー、それ俺も買ったよ！",
+            "ラストワン賞がサンクタムくんの髪飾りさ！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "じゃ、子供にゃポンコツじゃねぇか！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あっ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　大川のポケットから、ゲーム機が飛び出した。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺のゲーム！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 45,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "馬鹿、あれ大事なやつだろ！",
+            "なんでしっかり持ってねーんだ！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "持ってたさ！",
+            "でも気がついたら床の上を滑っていったんだ。",
+            "まるで、意志でもあるみたいに……"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "青い人魂たちがゲーム機に近寄っていく。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もしかしたら……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 92,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "チッ！　やっぱ、駄目か！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 93,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『……うわあ……すげぇ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『なにこれ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　再びゲーム機が勝手にプレイを始め、",
+            "　その高度なテクニックに",
+            "　子供の幽霊たちは画面に見入っていた。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『キャハハハッ、面白―い！』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『もっと、もっと！』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "また動いてる……。良介、良介が動かしてるのか！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ありがてぇ！　この隙に逃げようぜ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 94,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だ、だけど！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれが大事だって、その気持ちはわかるが……",
+            "良介ってのが守ってくれてるんなら、",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "今はその想いに",
+            "応えなきゃいけねーんじゃねぇのか？",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くっ…",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふう、お前のダチに助けられたな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うっ、ううっ……りょ……すけ……良介ぇ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "泣くなって……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だって、だって……ひっく……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まあ、ハッキリしてよかったじゃねぇか。",
+            "その良介ってヤツはお前の傍にいた。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ゲームは置いてきたが、",
+            "たぶんこれからもお前のこと、",
+            "影から助けてくれるんじゃないか？"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 99,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いいヤツだな……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 100,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん……うん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "じゃあ、そいつのためにも何が何でも",
+            "生き残らなきゃな！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 101,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "やべっ、もう来やがった！　逃げるぞ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　いつまで　にげきれるかな",
+            "　いつまで　いっしょにいられるかな",
+            "　いつまで　しなずにいきのこれるかな"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "岸沼君、一度二手に分かれよう。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？　でもよ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 105,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "このまま逃げてもいつかは捕まるよ。",
+            "相手をかく乱して隙をつく……",
+            "ゲームではよくある攻撃パターンだ。"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大丈夫。俺、意外に足速いんだよ。",
+            "……岸沼君、約束して。絶対生き残ろう。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おう。お前、大分復活したな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……はは。君のおかげさ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おし、行けッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……うん。またね！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……いっちまいやがった。",
+            "あいつ、本当に足速いんだな……",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ！？　またお前か……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ガッ！　く、くそ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どこに行ってイタ。",
+            "",
+            ""
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！　ウ……ウウ……アアアウ……",
+            "",
+            ""
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ワタシが呼んだら、スグニ来なきゃダメでショ？",
+            "",
+            ""
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウ……ウウウッ",
+            "",
+            ""
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウルサイ！",
+            "木偶の坊のくせニ言いワケをするナ！",
+            "その舌、ヒキぬいてヤロウカ！！"
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウゥッ！　ウアゥ……",
+            "",
+            ""
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "クスッ、クスクスクス……そうダ、ソレデいい。",
+            "サア、おいデ？",
+            ""
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウ、ウウ……グアウ",
+            "",
+            ""
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "う……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ここ……どこだ？　俺は……いっ！　……っ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（なんだよこれ、頭がっ……割れそうだ！！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ、血出てんじゃねーか……クソッ！",
+            "ったく、何がどうなってやがるんだ？",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 113,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "確か、薄暗い部屋に監禁されて……",
+            "ハンマーを持ったヤツに殺されそうになって、",
+            "それから……"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 114,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それから……駄目だ。やっぱ思い出せねぇ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 114,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（けど、何だ？　誰かの顔がなんとなく……",
+            "　こいつに、助けられたのか……？）",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 115,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――っ！　ううっ……頭いてぇ……",
+            "どれくらい、気を失ってたんだ？",
+            "早く篠崎のヤツを見つけてやらねぇと。"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "待ってろよ……篠崎！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "突破するのは難しいな。",
+            "戻るしかなさそうだ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ガキの幽霊がいるかもしれねぇ、",
+            "今はまだ入らない方がいい。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハァーッ！　ハァーッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウ……ウゥ、ウ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 120,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハァーッ！　ハァーッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　謎の黒い男の亡霊が",
+            "　ハンマーを振り上げたまま、見下ろしている。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　虚（うつほ）の目……頬に残る流血の跡が、",
+            "　その不気味さを増していた。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（やべぇ……このままだと、やられる！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　必死に足を動かそうとするが、",
+            "　神経が切れてしまったように力が入らない。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　殴られたせいなのか、",
+            "　それとも死への恐怖がそうさせるのか……",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　小刻みに震える足に呼応するように、",
+            "　歯がカチカチと鳴っていた。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ッ！　……ッ！　……クソッ！",
+            "　なんで動かねぇんだよ！！　動けよ――！）",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ア、ア……ゥアアア",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 121,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ブシュルルルル……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 122,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（な、んだ……？　こいつ……",
+            "　人の恐怖心を煽って、遊んでやがるのか！？）",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くっそ……ふざけやがって――――！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウ？　ア……ウゥ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 123,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ！　なんなんだよテメェ！",
+            "なぶり殺しにでもするつもりか！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウウゥ……アゥ、グアウ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 124,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "クッ……いい加減にしやがれ、このっ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（畜生、ふざけやがって……！",
+            "　俺は、こんな殺され方をされるために",
+            "　生きてきたわけじゃねぇ！）"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……動けよ……足！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウゥ……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 125,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "動け……動け、動け、動け、動け、",
+            "動けぇ――――！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ビクン！",
+            "　固まっていた足の筋肉が、",
+            "　弾けるように動いたその時……"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "？！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウゥ……グアウ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 126,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ、ぷはぁっ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ゼェ、ゼェ、ゼェ……",
+            "（とりあえず、助かったのか……？）",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "立って！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お、お前……誰だよ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そんなの後でいいから、早く！　立てる？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お、おう……足、動くわ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――急がないと、あいつがまた戻ってくるよ。",
+            "黙って俺について来て！",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "わかった！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（それからどこをどう進んだか分からない）",
+            "",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（そいつに言われるまま、",
+            "　薄暗い通路をひたすら走り続けた）",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハアッ、ハアッ、ハアッ、ハアッ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹・＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そこの教室に隠れよう！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おう……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ここまで来れば……っ……たぶん、大丈夫……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ハア、死ぬかと思ったぜ。",
+            "誰だか知らねーが、助かった。サンキューな。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……いや、どういたしまして。",
+            "本当に、間に合ってよかった……",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "外で、何か割れる音がした。",
+            "あのバケモノの気を逸らしてくれたの……",
+            "あれ、お前か？"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はは、おかげで命拾いしたぜ。",
+            "俺は如月学園って学校の二年、岸沼だ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ、ああ……",
+            "俺は、白檀高等学校二年の大川智寛。",
+            "よろしく、岸沼君。"
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おう。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん？　お前……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "えっ！？　な、なに！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんで目合わせねーんだ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あー……ごめん。いや、その……",
+            "なんていうか……",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだよ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 34,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、うちの学校に島田ってヤツがいてさ。",
+            "岸沼君……少し雰囲気が似てるんだよね。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "へー……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "き、気分を悪くしないでほしいんだけど……",
+            "条件反射というか、なんか癖……みたいな？",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……よくわかんねーけど、",
+            "人一人助けたんだぜ、お前？",
+            "もっと堂々としてろよ。"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 36,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はは……あ、ごめん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おいおい、さっきから謝ってばっかだな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 37,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……あははっ、ほんとだね。",
+            "ところで、",
+            "なんで岸沼君はあいつに捕まってたの？"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "わかんねー。",
+            "後ろからいきなり殴られて、",
+            "気が付いたらあそこに……"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 38,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あの野郎、思いっきり殴りやがって。",
+            "あーくそっ……コブできてんじゃねーか。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 39,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……守りたいヤツがいるのにあんな終わり方、",
+            "死んでも死にきれねーよ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 40,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "岸沼君……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "しっかし、",
+            "俺たち以外にまともに話ができる人間がいるとは",
+            "思わなかったぜ。"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 41,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そ、だね……。俺も……痛っ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "腕、どうかしたのか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 42,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん……ちょっと……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『おーい！　誰か――――！！",
+            "　誰かいないのかー！？",
+            "　いたら返事してくれ――！　おーい！』"
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？　今の、健介！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "急にどうしたんだよ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "聞こえたんだ！！　健介の声がっ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "健介……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 45,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、同じ高校の……",
+            "一緒に飛ばされてきた友達だよ！",
+            "上の階だ！"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『おーい！　誰か――――！！",
+            "　返事してくれよ――！』",
+            ""
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "健介？　ここにいるのか？",
+            "ねぇ――！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『おーーーい……！』",
+            "",
+            ""
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……どこだ？",
+            "声はこんなにハッキリ聞こえてんのに、",
+            "どこにもいねぇ。"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "健介……。健介ぇ――――！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？　ちょ、お前……！",
+            "あんまでかい声出すな。",
+            "見つかるだろーがっ！"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だって、ずっと探してたんだ！",
+            "健介、健介――――！！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『美月さぁーん！　袋井ー！　刻命ー！",
+            "　みんなどこに行ったんだ――！』",
+            ""
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "嘘……なんで聞こえないんだよ。",
+            "健介！　俺はここだよ、健介ぇ――――！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　しかし、大川の声は届かない。",
+            "　黒崎の声は徐々に遠のいて行った。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんで……？　俺、ここにいるのに……",
+            "っ、なんで行っちゃうんだよ！！",
+            "……ううっ。"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺は……っ……う、ふうっ……",
+            "一人で、逃げたから？　だからなのか！？",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どうした？　……お前、何言って……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "きっと罰なんだ。",
+            "俺だけ逃げて……っ……",
+            "みんなを、置いてきたから！"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大川……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "逃げたんだよ……",
+            "友達を置いて……自分だけ、逃げたんだよ！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "良介や卜部や霧崎を置いて……",
+            "あ、ああああぁぁぁぁぁぁぁ！！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大川！？　落ち着けよ、大川！　大川！",
+            "オイ！　……クソッ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あああああぁぁぁぁ――――！！",
+            "ぐ、んううぅ……っ……ん――――！！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　良樹は慌てて大川の口を塞いだ。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "バカ野郎！",
+            "こんなところで大声出してんじゃねー！",
+            "見つかっちまうって言ってんだろ！！"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！　っ……っん……。ご……ごめ……っ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いや……。とりあえず、大丈夫か？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "置いて行かないって約束したのに……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ずっと一緒だったんだ。",
+            "学校でも、遊ぶ時もいつも一緒にいたのに……",
+            "良介……ごめんな……ごめんな……っ。"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            "",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ずっと一緒、か……）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……大川、お前だけじゃねーよ、たぶん。",
+            "俺もそうだ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "岸沼君も……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああ。",
+            "今この瞬間も……アイツを一人にしちまってる。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……とにかくよ、後ろばっか見ねーで、",
+            "これから出来ることだけ考えようぜ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　どこからか、機械の音が聞こえる。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだ、この音？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え……あれ、俺！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ポケットから取り出された携帯ゲーム機の",
+            "　液晶画面が煌々と光っている。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "電源切ってたはずなのに、どうして……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　画面には、ゲームのタイトルが表示されている。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『ラブ・ミラクル",
+            "　～君にきゅんきゅん革命～　＋（プラス）』？",
+            "なんだこれ？"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え、知らない？",
+            "今人気の恋愛シミュレーションゲームだよ。",
+            "ＣＭくらい見たことあるんじゃない？"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "知らねーな。",
+            "バイトが忙しくてあんまＴＶ見てねーから。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "嘘……信じられない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うっせー！　つーかそれ電源切っとけよ。",
+            "ゲームやってる場合じゃねーだろ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そうなんだけど……うわっ！",
+            "なにこれ、勝手に動いてる！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なに？！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "こんなことって……ありなのか？",
+            "でも、幽霊とか普通にいるところだし、",
+            "あってもおかしくないかも。"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "勝手に遊び始めるゲーム機か……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "篠崎が前に言ってた、『霊障』ってのか？",
+            "いや、あー……なんだ、ポル……ポル……",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ポルターガイスト！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そう、それだ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ゲーム画面を見ると、勝手にカーソルが移動して",
+            "　ゲームが進められていく。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "これ、良介がクリアしたがってた",
+            "タカナミさんのＥＸ（エクストラ）シナリオだよ……",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……もう、遊べなく……なっちゃったけど。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まさかその良介ってヤツは……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……うん……生きてない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "マジか……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "良介、足に大怪我してて……。血が止まらずに",
+            "どんどん冷たくなっていくの、わかったんだ。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "本当はわかってたのに認めたくなかった！",
+            "だからあいつに言ったんだ……",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大川？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "人殺し！　って、言っちゃったんだ。",
+            "冷たくなった良介を、",
+            "階段から蹴り落としたから……"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くそっ……絶対許さない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだそりゃ……",
+            "酷ぇ仲間がいたもんだな。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もっと生きたかったよな。",
+            "もっとゲーム、やりたかったよな……",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "助けてあげられなくてごめん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ごめんよ、良介ぇ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（おかしくなるヤツも出てくるか……",
+            "　キツいよな……）",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれ、タイトル画面に戻ってる……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……なあ大川。",
+            "その良介ってヤツは見えないだけで、",
+            "案外お前の傍にいんじゃねーの。"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え……アイツが？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "気休めかもしんねーけどよ。",
+            "それもそいつがお前に何か伝えたくて、",
+            "動かしたとかさ？"
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "良介……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だったらよ、そのゲーム機があればいつでも、",
+            "そいつと遊べんじゃねーか？",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 72,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "岸沼君！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うおっ！　なんだよ、いきなり抱き付くな！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 73,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ありがとう岸沼君！",
+            "気休めでもいい、すごく嬉しい……",
+            "良介の霊なら、いつでも来い、だよ！"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ、ああ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 74,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺、岸沼君に会えてよかった……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "わ、わかったからくっつくなって！",
+            "鼻水つけんな！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グスッ……もう誰かが死ぬの、見たくないよ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ねえ岸沼君、絶対生き残ろうね！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああ、言われなくてもそのつもりだ。",
+            "こんなふざけたところ、とっとと脱出してやる！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そのためにも、",
+            "他のヤツらとも早く合流しないとな。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 77,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹・大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『みぃーつけたぁ……』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "クソッ、見つかった！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 79,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、とにかく逃げよう！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

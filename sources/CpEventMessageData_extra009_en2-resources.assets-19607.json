@@ -1,0 +1,244 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra009_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Yaaaaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuki",
+        "NameFlag": 1,
+        "VoiceNo_low": 181,
+        "VoiceNo_high": 22,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well done, well done.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 149,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Another sheep for the slaughter...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 150,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaaoooooooouuugghh...ooooouuuuuggghhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 186,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's a good boy. Now, sit.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 151,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You've been very obedient. I think you've earned",
+            "a reward.",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 152,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaaaahh...oooooaaaahhh...oooaahh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 187,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*giggle* There, there...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 153,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mr. Yoshikazu! Please, help! Untie my arms!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuki",
+        "NameFlag": 1,
+        "VoiceNo_low": 182,
+        "VoiceNo_high": 22,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*giggle* *cackle*",
+            "She mustn't like what she sees. Go blindfold her.",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 154,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ooooooooaahh....ooooooouuuuhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 188,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No! Mr. Yoshikazu! Don't! DOOOOOON'T!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yuki",
+        "NameFlag": 1,
+        "VoiceNo_low": 183,
+        "VoiceNo_high": 22,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

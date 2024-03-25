@@ -1,0 +1,700 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra010_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "っ！？　　　　　　　　　　　　",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁・良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふぅ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "今日は声がいまいち張れないな……",
+            "演劇部には顔出さずにおくか。",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "わ、わりぃ！　大丈夫か、森繁！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ　これが、大丈夫に見えるのか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "い、いや……悪かった。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まったく、お前は少し落ち着いた方がいいと思うぞ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう……メガネがどこかにいっちゃったじゃないか。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "メ、メガネ？　あぁ、ちょっと待て。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くれぐれも踏みつけないように気をつけ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 12,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……わりぃ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くっ……　岸沼お前！",
+            "言ってるそばから踏むやつがあるか！",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "や……だから、そのぉ……",
+            "すまん！　今度バイト料入ったら弁償すっからよ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………（ギリッ）。",
+            "はぁ……もういいよ。",
+            "うちに帰れば古いメガネもあるし……"
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そ、そっか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ただ……このままじゃ帰れない。",
+            "メガネがないと全然見えないんだ。",
+            "責任とって家まで送れ。"
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え、俺、バイトが……",
+            "あと、お前んち知らないんだけど……",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "歩きながら教える。バイト先には、遅れるって",
+            "伝えろ。",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……はぁ。しゃーねぇなぁ……。んじゃ、立てよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……おい、近すぎねぇか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "仕方ないだろ、こうでもしないと危なくて",
+            "歩けないんだから。",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それにしたって近ぇんだよ、きめェんだよ、",
+            "生暖（なまあった）かいんだよ！",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "安心しろ、俺だって気持ち悪い！",
+            "それより、周りに気をつけてしっかり歩けよ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あー！　あー！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "返事は１回でいい。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（やべぇ、早く行かないと、バイト遅刻しちまう）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（確か体育の時に、机に携帯入れっぱなしに……）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれ？　あれは繁に……え！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "繭",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "えぇ？　なんで岸沼くんと腕組んで歩いてるの？",
+            "……うそ！",
+            " "
+          ]
+        },
+        "Name": "繭",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……見なかったことにしよう……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "繭",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "痛い！　足を打った！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "よく足元見ろよ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お前が目となれ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "文句多いんだよ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

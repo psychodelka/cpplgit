@@ -1,0 +1,1802 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra023_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "　ヨシカズに襲われていた良樹は、",
+            "　大川によって助け出された。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　親友である良介の死のショックから",
+            "　抜け出せないでいた大川だったが……",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　良樹と行動を共にするうちに、",
+            "　立ち直ることができた。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　しかし、迫り来る子供たちの幽霊から",
+            "　逃れるため、二人は別行動をとることにした。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　『絶対に生き残ろう！』と約束し、",
+            "　良樹と別れた大川は、",
+            "　一人暗い廊下を走っていた。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　一人、暗い廊下を走る大川。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『きゃは……　きゃっきゃっ……』",
+            "",
+            ""
+          ]
+        },
+        "Name": "子供の幽霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハアッ、ハアッ、ハアッ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（どこに行っても白骨死体ばかりだな……",
+            "　！？　あ、あれは……！）",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　うつ伏せになって倒れている女子高生の",
+            "　遺体がある。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　眼鏡のレンズは割れ、",
+            "　ひしゃげてしまっている。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　後頭部辺りの頭蓋骨は、",
+            "　原型を留めていない状態だ。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……う、卜部？　ひっ……んっく！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……声を出しちゃ駄目だ！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　涙の跡と大きく見開かれた目が、",
+            "　絶命した時の恐怖と苦しみを現わしていた。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　あちこちに飛び散った血が、",
+            "　激しく殴られた様子を物語っている。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（酷い……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（誰が、こんなことを……",
+            "　！？　まさか、裕也がやったのか！？）",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（いや、落ち着け……",
+            "　冷静にならなくちゃ……",
+            "　流石にそれは考え過ぎだ）"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（岸沼君は、うまく逃げられたかな……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？　誰だ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……ああ……いや、いやあああああっ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 147,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（女の子……？）",
+            "",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "待って、俺は何もしないよ！",
+            "だから大きな声出さないで！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……う、嘘よ！　いや、",
+            "それ以上近付かないで……いや――――っ！",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 148,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　女子生徒はすっかり憔悴しきった様子で",
+            "　ガタガタと震えている。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ごめん……。怖がらせた、よね……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "来ないでー！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 149,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……俺は、君を傷付けたりしない。",
+            "守ってあげるよ！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！　……まも、る？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 150,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、そうだよ。",
+            "もう一人で怯えなくていいんだ。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……う、ううううっ……ふっ、う……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 151,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（岸沼くんから教わった。",
+            "　勇気と自信さえ持てば……こんな俺だって、",
+            "　人を助けることが出来るんだ）"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（良介、お前もいるしな！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "信じて……ぐす……いいの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 152,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん。……可愛そうに、",
+            "そんなに震えて、君も怖い思いをしたんだね。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "怖かった……怖かった……",
+            "っ……本当に……誰か助けて……",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 153,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺も、さっきまですごく怖かったから、",
+            "わかるよ。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……でも、もう大丈夫。",
+            "君は一人じゃな…",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グッ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 154,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "違うな。死ぬときは、誰もが一人……",
+            "そうだろ、大川？",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……ゆ、裕……也……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うっ……ガハッ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 72,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　大川の口から吐き出された血液が、",
+            "　女子生徒の顔に降り注ぐ。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ヒッ……あ、あああ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 155,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……どこに行っていたんだよ、大川。探したぜ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "裕也……お前……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 73,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……。もう、会えないかと思っていた。",
+            "会えて嬉しいよ。",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　冷たい眼差しを向ける刻命は、",
+            "　無言のまま大川の背中を切り裂いた。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ヒギッ！　ウウッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 77,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ……は、あ……キ……ミ……逃げろ……",
+            "逃げろ！！　早くっ……",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……いやあ、",
+            "いやあああああああああ――――！！",
+            " "
+          ]
+        },
+        "Name": "女子生徒",
+        "NameFlag": 1,
+        "VoiceNo_low": 156,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……や、めろ！　っ……やめろ、裕也！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……！",
+            "こんなことして、何になるんだ！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お前が俺の封印を解いたんだ、そうだろう？",
+            "……今の俺はもう、“裕也”じゃない",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グッ！　……痛ってぇ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 77,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺は見たかったんだ……",
+            "この頭の奥深くに閉じ込めていた渇望……そう、",
+            "……ヒトの、命の終わる様をな。"
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大川、本当にお前は最高だよ。",
+            "無様に這いずり！　転げまわって！",
+            "喚き散らす！"
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "クックックッ……",
+            "臆病というのは決して悪いことじゃない。",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "危険をいち早く察知する、",
+            "賢い能力の一つと言っても良い……",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ゼェ、ゼェ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 78,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――オイ。なのに、なんだその様は？",
+            "何故必死に逃げ回らない？",
+            "泣きわめきながら逃げて見せてくれよ。"
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何言ってるんだよ、お前……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 79,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大川……。気に入らないな、その目……",
+            "ほら、早く逃げ回れ。",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "狂ってる……",
+            "裕也、……いや刻命！　お前は狂ってるよ！！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "フッ……どうしたんだよ大川。",
+            "そんなのお前らしくないぞ？　這いつくばれよ。",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふざけるな……。　はっきりわかった。",
+            "今、格好悪いのは、絶対にお前のほうだ！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 81,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ア？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺はもう……",
+            "お前の思い通りになんて、動いてやらない！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ピクッ）…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ！　……ううっ！",
+            "……ハアッ、ハアッ……お前……なんか。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 83,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お前、なんかに……この、人殺しぃ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "やっぱりお前は人殺しじゃないか！",
+            "卜部を殺したのもお前だろう！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "は、ははっ……",
+            "学校でのお前に、",
+            "俺たちはまんまと騙されてたってわけか。"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 86,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "みんなを裏切って楽しいか！？",
+            "みんなを傷付けて楽しいのかよ！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 78,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お前は最低なやつだ！",
+            "俺は……俺はお前を絶対許さない！！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "たとえここで殺されても……",
+            "ずっとずっと許さないからな！",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……言いたいことは、それだけか。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだと……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グッ！！　……ッ……あ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もっと楽しめると思っていたんだが……",
+            "残念だよ大川。",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハッ、ハッ、ハッ、ハ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "き、ざみっ……ゆ……ない……",
+            "ゆル……さ……ナ……",
+            "キ……ザ…………"
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 92,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……同じなんだよ。",
+            "この学校に殺されるのも、",
+            "俺に殺されるのも……な。"
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺の思い通りの反応をしてやらない……だと？",
+            "ちっぽけな意地だ。……お前も、山本も……",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ちっ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "キ……ザ……ミ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 93,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "突破するのは難しいな。",
+            "戻るしかなさそうだ。",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ガキの幽霊がいるかもしれねぇ、",
+            "今はまだ入らない方がいい。",
+            ""
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,5279 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra020_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "幸運を、祈っているよ……",
+            "",
+            ""
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃーん！　千早ちゃーん！　どこなのー！",
+            "返事して――――！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃぁ――ん！　千早ちゃぁ――ん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "きゃあ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 34,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ。",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう、やだ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（二人とも、どこ行っちゃったんだろう……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "青い人魂さんと別れてからも、",
+            "私たちは荒れ果てた校舎を彷徨っていた。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 36,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成瀬先輩、風音先輩、",
+            "ひかりちゃんはまだ見つからない。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 37,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どんなに歩いても出会えない。",
+            "どんなに呼びかけても返事はない……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 38,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "不安と苛立ちが募るばかりで、",
+            "私たちはかなり疲れ切っていたんだと思う。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 39,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃんと千早ちゃんが喧嘩した。",
+            "口喧嘩はいつものことで、",
+            "きっとまたすぐ仲直りするだろうと思っていた。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 40,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なのに、その時は少し違っていた。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 41,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハアッ、ハアッ、ハアッ！",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那・千早・成",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うう……もうやだぁ！　疲れたよー！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "千早ちゃん、さっきの幽霊……たぶんまだついてきてるよ。",
+            "あともうちょっとだけ頑張ろ、ね？",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なぁなちゃん、私もう走れないよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "千早、あんたねぇ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 134,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "さっきから疲れたとか走れないとか、一々うるさい！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 135,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何度同じこと言えば気が済むわけ！？",
+            "いい加減黙って走りなさいよ！",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 136,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……！",
+            "",
+            ""
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "な、成ちゃんの意地悪！　意地っ張り！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はぁ？！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 137,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そうやって、自分は平気そうな振りして！",
+            "……ほんとは違うくせに！",
+            "ほんとは、私に八つ当たりしたいだけなんだ！"
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何言ってんのあんた？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 138,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう成ちゃん、千早ちゃんもやめなよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私は悪くないよ。",
+            "成ちゃんが怒ってばっかりなだけだもん……",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ！",
+            "",
+            ""
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "人のせいにしないでよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 139,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そもそも、あんたがイラつかせるから",
+            "悪いんでしょ！？",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 140,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だって、同じところを歩いて走って",
+            "ほんとに疲れたんだもん！",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 34,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それに、こんなとこにいたら……",
+            "誰だって頭がおかしくなっちゃうよ！",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃんだってそう！",
+            "絶対そうに決まってる！",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 36,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……勝手に決めないでよ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 141,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、とりあえず二人とも落ち着こう？　ね！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 45,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もうやだよ……。動きたくない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 37,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "千早ちゃん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "じゃあ、あんただけ残れば！？",
+            "それで怖い目にあっても知らないからね！",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 142,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ！？　いやぁー！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 38,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いやじゃない！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 143,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だって足痛いんでしょ！？",
+            "疲れたんでしょ！？",
+            "なら、一人でここに残ればいいじゃない。"
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 144,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いやぁー！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 39,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "やめてよ、二人とも！",
+            "今は喧嘩してる場合じゃないでしょ！？",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 145,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 40,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ねぇ、幽霊もう近くまで来てるかもしれないよ？",
+            "とにかく今は、隠れられるとこ探そう！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 41,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……はぁっ。行こう、なぁな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 146,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え……ちょ、ちょっと、成ちゃん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "千早ちゃん、そこにいて？成ちゃん連れてくる！",
+            "幽霊に見つからないように、",
+            "物陰に隠れているんだよ！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ぐすん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "千早",
+        "NameFlag": 1,
+        "VoiceNo_low": 42,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "待って！　ねえ、待ってよ成ちゃん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 147,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ね、戻ろう？",
+            "千早ちゃんを一人にしちゃいけないよ。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "知らない……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 148,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう知らないわよ、千早なんて！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 149,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あの子、いつも我儘ばかり言って、",
+            "なぁなやみんなを困らせて……",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 150,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大人しそうなフリして、言ってることキツイしさ！",
+            "どれだけ猫被ってんだか、わかったもんじゃないわよ。",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 151,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 152,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃんらしくないよ、そんな言い方……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 153,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私、二人に喧嘩してほしくない。",
+            "成瀬先輩たちを探そうって、",
+            "今まで一緒に頑張ってきたじゃない。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ここで喧嘩してバラバラになったら、",
+            "千早ちゃんとも、もう会えなくなるかも",
+            "しれないんだよ？"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃんは、それでもいいの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 154,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ね、戻ろう？",
+            "成ちゃんだって、言い過ぎたって思ってるんでしょ？",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "千早ちゃんも、",
+            "成ちゃんと喧嘩したかったわけじゃないと思う。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "怖くて、怖くて……",
+            "先が見えない不安に押しつぶされそうになるの、",
+            "ちょっとわかるもの。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "でも、そんな時こそ",
+            "離れ離れになっちゃいけないんだよ！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……なぁな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 155,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なぁなは強いね。",
+            "私は、そんな風に考えられる余裕ないな……",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 156,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……戻ろっか。",
+            "幽霊に捕まったら大変だしね。",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 157,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃん！　……うん、戻ろう！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あっ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どうしたの、なぁな？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 158,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "学生証が床の隙間に落ちちゃった。",
+            "成ちゃんは先に行ってて？",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え、でも……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 159,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大丈夫だから、",
+            "千早ちゃんとこに早く戻ってあげて。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "じゃあ先に行ってるけど……",
+            "なぁなもすぐにおいでよ？",
+            " "
+          ]
+        },
+        "Name": "成",
+        "NameFlag": 1,
+        "VoiceNo_low": 160,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あーあ。変なとこに落ちちゃったなぁ。",
+            "途中で引っ掛かってくれたのはいいんだけど……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　壊れかけた床の隙間を覗き込むと、ちょうど",
+            "　床板を支える木材の上に学生証が落ちている。",
+            "　隙間は狭く、手首までしか入らない。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "上手く取らないと、下に落ちちゃうかも……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 72,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　床の隙間に手を入れると、学生証が指に触れた。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん……あと、少し……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 73,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あと、ちょっと……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 74,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……取れた！",
+            "よかったぁ。急いで戻らないと！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれ……成ちゃん？　千早ちゃん？",
+            "二人ともどこに行ったの？",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃ――――ん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "千早ちゃ――――ん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 92,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "学生証を拾うのに掛かった時間は、",
+            "それほど長かったわけじゃない。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 78,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おそらく２分も掛かっていなかったと思う。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 79,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そう、たった２分……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "けれど……そのたった２分のせいで、",
+            "取り返しのつかない事態に陥ったのだ。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 81,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私は、成ちゃんたちとはぐれてしまった……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "キヒヒッ！　信じる奴が馬鹿なのさ！",
+            "天井に吐き出す首にじわじわと鉄槌を下す。",
+            " "
+          ]
+        },
+        "Name": "霊Ｄ",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "信じることは美しいね。",
+            "ゴロゴロ、ゴロゴロ……転がる心臓と歯形が笑う。",
+            " "
+          ]
+        },
+        "Name": "霊Ａ",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（何を言っているの、この人たち！？）",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "信じることが罪なのか。",
+            "信じないことが罪なのか。",
+            "いつかは、真実に辿り着けるといいね。"
+          ]
+        },
+        "Name": "霊Ｅ",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（気持ち悪い……。早く３Ｆに行こう！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "赤い人魂さんたち……。まだいたんだ。",
+            "でも、ここを抜けないと先にいけないし……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 83,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ようやくひとりになったんだね。",
+            "　ひとりはこわい、ひとりはつらい、",
+            "　ひとりで死ぬのは……"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉はぴくりとも動かない…",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……こっちにもいる",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まだ探しているのかい？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊Ｂ",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！？",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "混沌と絶望、整頓とお片付け、",
+            "きっとどこかに埋まっているよ。",
+            " "
+          ]
+        },
+        "Name": "霊Ｂ",
+        "NameFlag": 1,
+        "VoiceNo_low": 86,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ほら、そこにも！　あっちにも！",
+            "向こうにも！",
+            " "
+          ]
+        },
+        "Name": "霊Ｂ",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……！",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "擦り切れた者たちの爪痕だらけさ！",
+            "ヒィーヒヒヒヒヒッ！！",
+            " "
+          ]
+        },
+        "Name": "霊Ｂ",
+        "NameFlag": 1,
+        "VoiceNo_low": 87,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "やだっ、ついて来ないで！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ヒ、ヒヒヒッ……ヒヒヒッ、ヒ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊Ｂ",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ううっ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 86,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（男子用厠……",
+            "　ここって確か、青い人魂さんがいたところだ）",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（確か、前はここに……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あの……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 87,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（返事がない。どこかに行っちゃったのかな？",
+            "　開けてみよう……）",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああぁああけるるなあああ！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 148,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ビ、ビックリした……。でも、今の声……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふう……よしっ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あのっ、青い人魂さん……ですよね！？私です。",
+            "さっき、あなたの帽子と眼鏡を探してきた……！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            "誰かと思えば君か。",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 149,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "よかった。青い人魂さん、まだいたんですね！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 92,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああ、僕はこの場所に縛られているからね。",
+            "移動することはできないんだよ。",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 150,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そうなんですか……",
+            "でも、また青い人魂さんに会えて嬉しいです。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 93,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 151,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？　青い人魂さん？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 94,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "君に一つ、頼みがあるんだが……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 152,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい、なんでしょう？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 95,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "その『青い人魂さん』というのは、",
+            "やめてもらえないだろうか？",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 153,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "でも私、青い人魂さんの名前知らないです。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハッ！　しまった、",
+            "淑女に対し、僕としたことが……！！",
+            "ゴホンッ……これは失礼した。"
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 154,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "では改めて……",
+            "僕の名前は下田、下田宗一郎だ。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 155,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "家柄だけは古い華族でね。",
+            "僕はその当主だったんだよ。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "この場所。天神小学校が建てられる前は……",
+            "ここに、僕の屋敷があったんだ。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 95,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "か……族？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "要は、血筋を大事にする古い一族さ。",
+            "……僕は少し",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――未練があって、",
+            "ここから離れられなくなってしまった。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それで、君の名は？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 158,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私は小笠原奈那といいます。",
+            "武蔵川女子中学校の１年生です。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "小笠原、奈那か……良い名だな。",
+            "ところで、一緒にいた二人はどうしたんだい？",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 159,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……その途中ではぐれてしまって……",
+            "ずっと探してるんですけど、",
+            "どうしても見つからないんです。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 99,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふむ……それはよくないな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 160,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 100,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "これまで粛清してきた子供たちの話によると、",
+            "この学校では",
+            "不思議な現象が起きているらしくてね。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "声は聞こえるのに、姿は見えない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 162,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "一度通った場所をもう一度通ると、",
+            "そこにあった遺体がまるで何年も",
+            "経っているかのように白骨化していた……とかね。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 101,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もしかすると、",
+            "君と彼女たちの間でそういった現象が",
+            "起きているのかもしれないな。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……じゃあ私は、",
+            "このまま成ちゃんたちと会えずに、",
+            "ずっと一人かもしれないってことですか！？"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あくまで可能性であって、",
+            "確信があるわけではない。しかし、",
+            "否定することができない事象でもある。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "嘘……です。",
+            "気のせいとか、ただの噂話ですよ、そんなの。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……だが……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 166,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ど、して……？",
+            "ちょっと離れただけで、",
+            "なんでそんなことになるの！？"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 105,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ねえ下田さん。",
+            "嘘だって、大丈夫だって言ってください！",
+            "ねえ、下田さん！！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "すまない……",
+            "僕には、否定することができない。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 167,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……！！",
+            "う……ううっ……うっ、",
+            "うわああああああ――――ん！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うううう……うわああああああん！",
+            "うっく……ひっ……く……うううう――――っ！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "奈那……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひっく……一人は、やだよぉ……！",
+            "こんなとっ、ころで……",
+            "一人で……死にたくないよぅ！！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひっ……ひっく……ううっ！",
+            "お母……さん……お父、さ……ん、勇誠ぇ……！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんで側にいてくれないの？",
+            "なんで、誰もいないの……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ううっ……ひっく……",
+            "成ちゃん……千早ちゃん……。もう誰か助けて！！",
+            "助けてよぉ――――！　……ううっ"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私……全然、強くない。",
+            "っ……強くなんか、ないよぅ……",
+            "ひっ……ひぅ……うう……"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 113,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "奈那、人はみな弱いものだ。",
+            "どんなに心が強い人間であっても、",
+            "必ず弱い部分もある。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 169,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "でも……ひくっ……",
+            "みんなが……ひくっ。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 114,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "本当の自分をさらけ出すことは、",
+            "恥ずかしいことでもなんでもない。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だから、思いきり泣くといい。",
+            "君は泣いていいんだよ。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うっ……ううぅ……っ、",
+            "うわあああああ――――ん！",
+            "ひぅっ、うっ、うわああああああ――――ん！！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 115,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "寂しいよ……怖いよ……",
+            "死にたくないよぉ……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……落ち着いたかい？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぐす……っ……はい。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ずっと我慢していたんだね。",
+            "こんなに小さい子供に、なんという運命だ……",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 118,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私には……勇誠っていう",
+            "泣き虫な弟がいるんです。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 119,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "よくお母さんに、",
+            "奈那はお姉ちゃんなんだから我慢しなさいって",
+            "言われてたからかなあ。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 120,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ほんとの気持ちを抑えるのが",
+            "癖になっちゃってるみたいで……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私がしっかりしなきゃ、",
+            "我慢しなきゃって、つい……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 93,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃんには、たぶんそれがわかってて……",
+            "気を使わせちゃってたのかな……",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 122,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "成ちゃんと千早ちゃんって、",
+            "意外と似てるとこあるんですよね。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ちょっとキツイ言い方しちゃうとことか……",
+            "自覚はないみたいですけど。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 94,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はあ……思いっきり泣いて、",
+            "ちょっとスッキリしました！",
+            "ありがとう、下田さん。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 124,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……いや。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 125,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あの、下田さんって恋人は……いたんですか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 126,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん？　なんだね、藪から棒に。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "実はずっと気になってたんですよね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 127,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "下田さんって、生きていた時は",
+            "どんなことしていた人なのかなって。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 128,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ああ、いたとも。",
+            "『綾』という、清楚で知性溢れる素敵な女性がね。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 177,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "彼女とは知人を通して知り合ったんだ。",
+            "お互いに一目惚れでね。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "彼女がいてくれれば、",
+            "どんなに辛い境遇にも耐えられた。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私が生きていた時代は……",
+            "列強に追いつくべく、早急に西洋文化を学び、",
+            "取り入れなければならなかった波乱の時代でね。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 179,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "多くの男たちが強い信念と志を抱いて",
+            "海を渡っていった。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 72,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕も……その一人でね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "生まれつき、体が強くなかった彼女を",
+            "置いていくのは忍びなかったが、",
+            "彼女の後押しもあって、船に乗り込んだ。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 181,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……すごい彼女さんですね。",
+            "好きな人が外国に行っちゃうなんて、",
+            "絶対寂しかったと思います。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 129,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああ……。僕も、そう思うよ。",
+            "僕自身……",
+            "彼女と離れるのは身を引き裂かれる思いだった。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 182,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だから僕たちは何度も手紙を送り合い、",
+            "互いの近況を伝えた。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 73,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "彼女の励ましがあったからこそ、",
+            "見知らぬ土地で頑張れたのだと思う。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 99,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "為すべきことを為し終えた僕は、",
+            "近々大きな成果を持って帰ると",
+            "手紙に記して彼女に送った。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 184,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だが、彼女からの返事はなく",
+            "……代わりに届いたのは",
+            "彼女の母親からの手紙だった。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 185,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "彼女が……綾が、",
+            "心の臓を患って亡くなったという知らせだった。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 186,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 130,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕は、何も知らなかった……",
+            "いや、知らされていなかった。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 187,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だいぶ前から病を患っていたにも関わらず、",
+            "僕の邪魔はしたくないと、",
+            "事実を伏せていたんだ。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 188,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何も知らされなかったのは、綾の……",
+            "たっての願いだったからだそうだ。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 189,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いまわの際に側にいられなかった自分を恥じた。",
+            "己の存在さえ否定したくなった。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 190,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "しかし、それを彼女は許さなかった。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 191,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『自分がまっとうできなかった分、生きてほしい』",
+            "という言葉を残して逝ったから……",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 192,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "これは……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 131,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "渡航先から、",
+            "僕が彼女に送ったネックレスでね。",
+            "肌身離さず着けてくれていたらしい……"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 193,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕はこのネックレスに誓ったんだ。",
+            "綾の分まで生きて、生きて、",
+            "生き抜いてみせると！"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 194,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まあ……いささか『生』への執着が強過ぎたようでね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 118,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "死んだ後も成仏できずに、",
+            "この土地に残っているというわけさ。",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 119,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……うっ……うう……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 132,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 196,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "な、なぜまた泣いているんだ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だって……あんな怖い声で脅かす下田さんに、",
+            "そんな悲しい事情があったなんて……ううっ。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 133,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お、脅かすとは、心外だな。",
+            "僕は不躾に扉を開ける輩に忠告をだね……！",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 198,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふふっ……わかってますよ。",
+            "下田さんって意外と",
+            "親しみやすい人だったんですね。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 134,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……それは褒めているのか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 199,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 135,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……うむ、まあいいだろう。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ところで、下田さん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 136,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだね？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "前に言っていた『I love you』は、",
+            "彼女さんにだけ、",
+            "言ってあげたほうがいいですよ。"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 137,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん？　何故だね？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 202,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『I love you』は『愛してる』って意味だから、",
+            "私たちに言っちゃだめです。",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 138,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あー……そうだったか。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 203,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "好意にしたって、",
+            "LoveとLikeは使い分けないとでしょ？",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 139,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふむ……では、",
+            "I like you!　……こうかな？",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ふふっ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 140,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "む……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あははははっ！",
+            "なんかやっぱり変ですね！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 141,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふふ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 74,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "んんッ！君が言えと言ったんだろ。",
+            "笑うのはどうかと思うが？",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 100,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "下田さんだって笑ったじゃないですか。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 142,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕はいいんだ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "えー、ズルいー。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 143,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふっ……ようやく、元気が出てきたようだな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……",
+            "ふふっ……はい！",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 144,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "心細くて、弱音を吐いちゃったけど……",
+            "やっぱり私、",
+            "成ちゃんと千早ちゃんを探します！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 145,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……そうか。",
+            "諦めずに歩き続けていれば、",
+            "何かしら変わっていくものだ。"
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "辛い状況をも打破する力を、人は持っている。",
+            "まずは自分を信じることだ。",
+            ""
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 146,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それじゃあ、私行きます。下田さん、",
+            "話を聞いてくれてありがとうございました。",
+            "お元気で！！"
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 147,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああ、君もな。",
+            "さらばだ、I like you！",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            "",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（私たちは叶わなかったが、君たちなら……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（願わくば、君たちが再び相まみえんことを",
+            " 優しくも愛らしき、小さなレディたち……）",
+            ""
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "幸運を祈っているよ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "下田",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（男子用厠……。ここって確か、",
+            "　青い人魂さんがいたところだ）",
+            ""
+          ]
+        },
+        "Name": "奈那",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…ヒ、……ヒッ…ヒヒッ、ヒ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "赤い人魂",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ヒ、ヒヒヒッ……ヒヒヒッ、ヒ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊Ｂ",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…ヒ、……ヒッ…ヒヒッ、ヒ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "人魂Ｃ",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…ヒ、……ヒッ…ヒヒッ、ヒ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "赤い人魂",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　３階への道は塞がれています……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

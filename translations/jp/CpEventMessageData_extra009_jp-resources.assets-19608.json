@@ -1,0 +1,244 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra009_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "きゃあぁぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "雪",
+        "NameFlag": 1,
+        "VoiceNo_low": 181,
+        "VoiceNo_high": 22,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "エライエライ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 149,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "マタ連レテキテクレタノネ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 150,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ア…ウウゥゥ　ウ…ウァァ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 186,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "イイ子ネ…　サァソコニスワッテ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 151,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "イウコトキイタカラ、マタ",
+            "ゴホウビシテアゲル",
+            " "
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 152,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ア…ア…ォォ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 187,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウフフフフ…♪　イイ子イイ子……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 153,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生！　……ヨシカズ先生！　たすけて！",
+            "手、ほどいて！",
+            " "
+          ]
+        },
+        "Name": "雪",
+        "NameFlag": 1,
+        "VoiceNo_low": 182,
+        "VoiceNo_high": 22,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウフフフフフ……クスクスクス。",
+            "目の毒かナ……目隠しして来なサイ",
+            " "
+          ]
+        },
+        "Name": "サチコ",
+        "NameFlag": 1,
+        "VoiceNo_low": 154,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウウウ……ウウゥ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ヨシカズ",
+        "NameFlag": 1,
+        "VoiceNo_low": 188,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "嫌！　先生！　やめて！　いやぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "雪",
+        "NameFlag": 1,
+        "VoiceNo_low": 183,
+        "VoiceNo_high": 22,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

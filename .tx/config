@@ -1,0 +1,156 @@
+[main]
+host = https://www.transifex.com
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_chap1_en2-resourcesassets-19559json]
+file_filter = translations/<lang>/CpEventMessageData_chap1_en2-resources.assets-19559.json
+minimum_perc = 0
+source_lang = en
+resource_name = Chapter 1
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_chap2_en2-resourcesassets-19563json]
+file_filter = translations/<lang>/CpEventMessageData_chap2_en2-resources.assets-19563.json
+minimum_perc = 0
+source_lang = en
+resource_name = Chapter 2
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_chap3_en2-resourcesassets-19567json]
+file_filter = translations/<lang>/CpEventMessageData_chap3_en2-resources.assets-19567.json
+minimum_perc = 0
+source_lang = en
+resource_name = Chapter 3
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_chap4_en2-resourcesassets-19571json]
+file_filter = translations/<lang>/CpEventMessageData_chap4_en2-resources.assets-19571.json
+minimum_perc = 0
+source_lang = en
+resource_name = Chapter 4
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_chap5_en2-resourcesassets-19575json]
+file_filter = translations/<lang>/CpEventMessageData_chap5_en2-resources.assets-19575.json
+minimum_perc = 0
+source_lang = en
+resource_name = Chapter 5
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra001_en2-resourcesassets-19579json]
+file_filter = translations/<lang>/CpEventMessageData_extra001_en2-resources.assets-19579.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 1
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra002_en2-resourcesassets-19583json]
+file_filter = translations/<lang>/CpEventMessageData_extra002_en2-resources.assets-19583.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 2
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra003_en2-resourcesassets-19587json]
+file_filter = translations/<lang>/CpEventMessageData_extra003_en2-resources.assets-19587.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 3
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra005_en2-resourcesassets-19591json]
+file_filter = translations/<lang>/CpEventMessageData_extra005_en2-resources.assets-19591.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 5
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra006_en2-resourcesassets-19595json]
+file_filter = translations/<lang>/CpEventMessageData_extra006_en2-resources.assets-19595.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 6
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra007_en2-resourcesassets-19599json]
+file_filter = translations/<lang>/CpEventMessageData_extra007_en2-resources.assets-19599.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 7
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra008_en2-resourcesassets-19603json]
+file_filter = translations/<lang>/CpEventMessageData_extra008_en2-resources.assets-19603.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 8
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra009_en2-resourcesassets-19607json]
+file_filter = translations/<lang>/CpEventMessageData_extra009_en2-resources.assets-19607.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 9
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra010_en2-resourcesassets-19611json]
+file_filter = translations/<lang>/CpEventMessageData_extra010_en2-resources.assets-19611.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 10
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra011_en2-resourcesassets-19615json]
+file_filter = translations/<lang>/CpEventMessageData_extra011_en2-resources.assets-19615.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 11
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra020_en2-resourcesassets-19619json]
+file_filter = translations/<lang>/CpEventMessageData_extra020_en2-resources.assets-19619.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 20
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra021_en2-resourcesassets-19623json]
+file_filter = translations/<lang>/CpEventMessageData_extra021_en2-resources.assets-19623.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 21
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra022_en2-resourcesassets-19627json]
+file_filter = translations/<lang>/CpEventMessageData_extra022_en2-resources.assets-19627.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 22
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra023_en2-resourcesassets-19631json]
+file_filter = translations/<lang>/CpEventMessageData_extra023_en2-resources.assets-19631.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 23
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra030_en2-resourcesassets-19635json]
+file_filter = translations/<lang>/CpEventMessageData_extra030_en2-resources.assets-19635.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 30
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra031_en2-resourcesassets-19639json]
+file_filter = translations/<lang>/CpEventMessageData_extra031_en2-resources.assets-19639.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 31
+type = KEYVALUEJSON
+
+[o:studio-kielkun:p:corpse-party-pl:r:cpeventmessagedata_extra100_en2-resourcesassets-19643json]
+file_filter = translations/<lang>/CpEventMessageData_extra100_en2-resources.assets-19643.json
+minimum_perc = 0
+source_lang = en
+resource_name = Extra 100
+type = KEYVALUEJSON

@@ -1,0 +1,6856 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra021_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "田久地さんいつ帰るの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うぐ……ぼ、僕の顔見るたびにそれ言うの、",
+            "やめてくれないかな。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だってもう随分時間経ってるでしょう？",
+            "ウチに来て。",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まだ１０分経ってないよ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 162,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "七星くん、そう田久地くんを虐めないで",
+            "くれたまえ。",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "明日も助手として、",
+            "僕の取材の手伝いをしてくれる予定なんだ。",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……先生。でも最近、",
+            "うちに来る頻度どんどん高くなってるし、",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そろそろ厚かましいかな、なんて。",
+            "長居しすぎです。",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……普通、自分で空気を読むものなんだけどなぁ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いま来たばっかりなんで！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "七星くん（笑）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 202,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あはははは。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（いつも僕に酷いことを言う七星ちゃん――",
+            "　でも心の奥底には優しさが（多分）あって）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（こんなやりとりも含めて、",
+            "　鬼碑忌先生と彼女との三人での日常は、",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　何者にも代え難い、",
+            "　大事な大事な記録だったんだ）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　モニターに映し出されているのは、",
+            "　つんとした表情の冴之木七星。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『田久地さん今日の運勢って大凶だったっけ？』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『せめて調べてから言ってよ？！　違うよ！』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……。ぷっ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　コト。――カメラを階段に置く。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っはっは……あっはっはっはっはっは……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 166,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はははははははは……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 167,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひィー。　……",
+            "楽しかったなぁ……",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生は、何処へ行ってしまったんだ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 169,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ふと、時計に目を落とす。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（時計はやはり止まっている……。けど、",
+            "　もう鬼碑忌先生とはぐれてから、まる二日",
+            "　くらいは経っているという実感はある）"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "鬼碑忌先生！　鬼碑忌先生！　今何か……！",
+            "今何か居ましたよ！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何処だね！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 203,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "こっちです！　こっち！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "君！　待て……待ってくれ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "待っ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ガフッ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……大丈夫か！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っグ……すみません。",
+            "何か踏んで……　カメラ、無事ですか？",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ああ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッ！？　……ウアアアアアーーーッ！！",
+            "ウアアアアアーーーッ！！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 177,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 206,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "アアアアアアーーーーッッ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 178,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "田久地君！　何処へ行くんだ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（あの時――。鬼碑忌先生の背後に青白い",
+            "　幽霊のようなものが見えて、",
+            "　驚いて逃げ出した僕だが……）"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（その後、幽霊どころか",
+            "　誰にも出会えていない）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（おぞましい人の亡骸や、その死体を",
+            "　嬲ったような跡など、ぞっとする現場には",
+            "　たくさん遭遇しているけれど……）"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（最初は特ダネだと興奮したが、",
+            "　そんなものはすぐに消し飛ぶことになる）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（すべての窓は開かないし、玄関や非常扉も",
+            "　びくともせず。外へ脱出することが",
+            "　出来ないと気付いたからだ）"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（鬼碑忌先生の気配はおろか、",
+            "　自分以外に生きた人の気配を全く感じない、",
+            "　冷たい空間――）"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（僕は、この真っ暗な建物にただ一人、",
+            "　ぽつりといるんだ）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（想像すると全身の毛が逆立って、",
+            "　吐きそうになる）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（背筋に氷の針を刺し込まれたような、悪寒。",
+            "　僕は、ここで）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（――死ぬまでひとりなんだ）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はぁーー……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 179,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……なんでこんな所に来ちゃったんだ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 180,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "唯一の脱出法って言われてた",
+            "『逆打ち』の仕方を、なんで先に先生から",
+            "教わらなかったんだよ……"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……僕はどこまで馬鹿なんだ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　階段に置いたハンディーカメラを",
+            "　もう一度手に取る。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あの時、僕が廊下に投げ出したカメラ、",
+            "中に入っていたテープは誰かに抜き取られて",
+            "いたけど……見つかってよかった。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 182,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おかげで、服のポケットに入れていたテープを",
+            "こうして見ることが出来る……",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 183,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ボタンを押して、動画を再生する。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『七星くん駄目だ！　そんなもので殴ったら",
+            "　田久地くんが死んでしまう』",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『先生ーーっ！』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 184,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『私の付箋シール勝手に使うからでしょ！",
+            "　これさやかと亜衣子に貰った、",
+            "　大事なものなんだから！』"
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『土下座するよ！　土下座するから！』",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 185,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 186,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（記録は動画に録っておくと、きっと後で、",
+            "　切り取られた『いい思い出の時間』になる）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（だから僕は、写真よりも動画が好きだ）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――でも、懐古ばかりしていたら",
+            "先には進めないんだよ、ね。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 187,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "思い出は、",
+            "前に進むためのガソリンでしかないんだ。",
+            "頑張って動いてみよう。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 188,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "脱出して、先生や七星ちゃん達とまた……",
+            "楽しく暮らすんだ。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 189,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どこなのー……ッ　ねぇ！",
+            "……一人にしないでェーっ……！！",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――？！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 190,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……人の声！？　女の子の声だ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 191,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "世以子……怖いよ！　どこなのー！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はぁ、はぁ、ゼイ、ゼイ……ぐすっ……",
+            "悪かったわよ、もう酷いこと……",
+            "……ぐす、言わないから……"
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 105,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ここにいるの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……人だ……ははっ……！",
+            "どう見ても人だ！",
+            "やっと生きてる人に出会えた！"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 192,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（？！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "せーーーーーーーーーーーーーーーーーー",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "せーーーーーーいいぃぃぃいいいいぃぃぃぃ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "イイイイイイイイイイィィィィィィイイイィ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "こォォォォオオおおおおォぉォぉォぉォぉォ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "＊＊＊％＆＃％＃＃’’’！！！！！！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁぁぁぁ……！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 193,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（それはもう、人の声じゃなかった）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（女の子の大きく開いた口は、",
+            "　あごが外れ、人の顔の皮はここまで",
+            "　伸びるのかと驚くまでに）"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ぽかりと開けたその穴を、",
+            "　ぐんぐんと開けてゆく）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（喉の奥から搾り出されるその声は、",
+            "　彼女の声帯を壊さんばかりに）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ぶるぶると振動させた、",
+            "　かん高い――もはや音だった）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ、？！　……う……うぅ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 194,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだ……なんだったんだ今の……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 195,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うう、もういやだ……帰りたい！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 196,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もしかして、ここは昔のトイレ……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……あれは、ハシゴ……上の方に繋がってる。",
+            "この臭い、やっぱりトイレだよな。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それにしても、用務員室から",
+            "トイレの下だなんて。……これ、",
+            "盗撮でもしてたんじゃないか？　最低だな。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　梯子を見上げる。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　そこには、さっきの女の子を抱えて上がる",
+            "　大男の姿があった。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ウウウゥゥ",
+            "",
+            ""
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　大男の動きが止まった。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ……うわ……うわああぁぁぁ！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわああああ！！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（バケモノだ！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はぁ！　はぁ！！",
+            "何だよあれ！　何なんだ！！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　月　日　　日番　東雲／管乃",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひいぃッ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　玄関扉はピタリと空間に固定され、",
+            "　開きません。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、扉ってこれ？！",
+            "幻影って……どう見ても本物に見えるけど……！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "頭から飛び込む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひいぃッ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　玄関扉はピタリと空間に固定され、",
+            "　開きません。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、扉ってこれ？！",
+            "幻影って……どう見ても本物に見えるけど……！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "頭から飛び込む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひいぃッ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　玄関扉はピタリと空間に固定され、",
+            "　開きません。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、扉ってこれ？！",
+            "幻影って……どう見ても本物に見えるけど……！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "頭から飛び込む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　玄関扉はピタリと空間に固定され、",
+            "　開きません。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "と、扉ってこれ？！",
+            "幻影って……どう見ても本物に見えるけど……！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 202,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "頭から飛び込む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッが！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 203,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "撮っても　撮っても　お前のしにがお",
+            "ゆがんでく　くずれてく　ちぎれてく",
+            "お前のしにがお"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "内への扉は　悪意ある幻影だ",
+            "心を強く持ち　頭から飛び込め",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひィッ！　……ひいいぃぃぃーーーッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 206,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "かえひて……エエエェェェェェェェェ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひた！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グァ！！　……アアァッッ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "め！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッ！！！　……ギアアァーーーーーーーッッ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ガアアウウウウゥゥゥゥ……！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "助へてェェェェ！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウウウウウウゥゥゥゥゥゥゥ……！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ゴポ,",
+            " ",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "これ、ちがう……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぉ……ォ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひいぃッ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "■天神小連絡通紙■",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外には、うっそうと繁った",
+            "　森の木々が見えます。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　窓の外には、うっそうと繁った",
+            "　森の木々が見えます。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　害虫の死骸が、整然と並べられています……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　棚の中には、長く、真っ黒な髪の毛が",
+            "　たっぷりと詰め込まれています……",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "1973　9　18",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "かえひて……かえひて",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひいぃッ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぐ……っ、しまった。また……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……あれっ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……あれ？　そんな！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "嘘だろう？　壊れた",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そんな……冗談じゃないよ！",
+            "……カメラが動かなきゃ、僕は……",
+            "何のために、ここにいるんだ！"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くそっ……！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわーーーん、うわーーーん",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "直美ぃ～、うわ～ん",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ばか～",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 86,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（――また女の子……",
+            "　さっきの子と同じ制服だ……）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……また気が触れてる子だと恐ろしいな……",
+            "　隠れて後をつけてみよう）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はぁはぁはぁはぁはぁ。",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まだ、さっきの子はいるかな？",
+            "はぁはぁはぁ。",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（よしっ、いた！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（カメラ……動いてくれ）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……駄目か……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん？　……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……なんだ？　やっぱり様子がおかしい。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……声が聞こえる……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 87,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……直美……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……追おう）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（なんだあの部屋は……？）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "プレートがある。用務員室……か。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　中を覗いてみるが、人の気配は全くしない。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……は、入ってみようか……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“一緒に行こうって……",
+            "　みんなと約束したのに……”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“どうして……僕だけが",
+            "　置いて行かれるんだ……”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“……ｸﾙｼｨ",
+            "　 ……ｸﾙｼｨよ……”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グァ！！　……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぉ……ご……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くそっ……、開いてくれ……！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グァ！！　……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぉ……ご……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（もうここに行くのはゴメンだ）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　扉は模型のようにガチリと固定されており、",
+            "　開ける事が出来ません。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グァ！！　……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぉ……ご……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（今はあの子の後を追おう……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鍵がかかっています。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【地下室】",
+            "　扉は釘で打ちつけてあり、",
+            "　開きそうにありません。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　何人も立ち入りを禁ず",
+            "　　　　　【天神小学校校長：柳堀隆峰】",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鍵がかかっています。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "玄関か……。ひょっとして、",
+            "出られるようになっているかもしれない。",
+            "行ってみよう。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "玄関か……。ひょっとして、",
+            "出られるようになっているかもしれない。",
+            "行ってみよう。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っく、やっぱり駄目だ、",
+            "びくともしないや。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 198,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そんなに甘くはないか……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 199,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "玄関か……。ひょっとして、",
+            "出られるようになっているかもしれない。",
+            "行ってみよう。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "世～～以子～～～～ォォォォォーーーーー",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッッきゃぁーーーーーッ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鍵がかかっています。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【保健室】",
+            "　扉に鍵がかかっています。",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（うわッ……！　ひどい臭いだ……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【理科室】",
+            "　扉は、模型のようにガチリと壁に固定され",
+            "　開ける事が出来ません。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鍵がかかっています。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "部外者の闖入は認められておりません",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "直ちに退出して下さい",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "カメラを置いて",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鍵がかかっています。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "部外者の闖入は認められておりません",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "直ちに退出して下さい",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "カメラを置いて",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　肉片が辺りに散乱しています……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（まさか、人間のものじゃないよな……）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鍵がかかっています。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　隙間があり渡ることが出来ません……",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "階段には　魔が多く潜む",
+            "気持ちを引き締めて",
+            "足元をしっかり踏みしめよ"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うっ……？　なんだ？　寒気がする",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ！　う……",
+            "寒い……寒い！",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "凍えそうだ！",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハァ、ハァ、ううう……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もうイヤだ！　助けて！",
+            "誰かァァーーーー！！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……う……ううぅ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　四つん這いに身を起こすが、",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　気力が尽き、また這いつくばる。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生……僕はもうだめです……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふ……く……っ、ううぅぅ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……弱虫。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "＊",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……えっ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "田久地さん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "君は……君は！",
+            "七星ちゃん？！　どうして？",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　田久地の顔に安堵の色が浮かぶ。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……たしか、",
+            "君には内緒で……先生と二人で来たのに……",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……先生とはぐれたのでしょう。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "う、うん、そうなんだ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "この空間は不安定で危険。",
+            "あれほど言ったのに……",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "同じ場所でも別の次元へスレッディング",
+            "されると、出会うことはありません。",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あなたは、",
+            "鬼碑忌先生とここへ来た時とは別の次元の",
+            "この校舎に迷いこんでいるのです。"
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "この次元は、あなたがここへ来たよりずっと",
+            "以前かも知れないし、もしかしたら、",
+            "何百年も先かも知れません。"
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……本当に？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "理解が早いのはあなたの長所ね、",
+            "さすがゴシップライター。",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "な、七星ちゃん。",
+            "出会えて嬉しいよ……",
+            "追いかけて来てくれたんだね？"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 81,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "とにかく、一緒にここを出ようよ、",
+            "先生を探して……",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　七星は表情を変えずにおし黙る。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "七星ちゃん……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私はもう……死んでいます。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ええっ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そんな……そんな……ッ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　七星の身体を、",
+            "　何度もつま先から頭まで眺めなおす田久地。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　生気のないその体は、",
+            "　うっすらとホログラムのように、",
+            "　背景にその輪郭を滲ませていた……"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生も、私が校舎を隅々まで",
+            "探していますが……　何処にもいません。",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "七星ちゃんの霊力をもってしても",
+            "……駄目なのかい？",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "少なくとも私はもう朽ち果てました。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "う……う……ううう……！",
+            "ひどいよ！　どうしてこんな……！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　下を向き、うつむく田久地。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "霊になって分かりました。",
+            "先生の生体エネルギーを感じません。",
+            "……もう、亡くなられています。"
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あなただけでも、",
+            "逃げ出す方法を探るのです。",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そして、記録したものを持ち帰るんです。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "田久地さん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……先生も……七星ちゃんもいない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……そんな世界に僕だけ帰って、",
+            "何があると言うんだ。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕にもう、出来ることなんかないよ！",
+            "もういいよ、全部どうだっていい！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう、楽にさせてくれ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　頭を床に擦り付ける田久地。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　しばらく腕を組んだ姿で見つめていた",
+            "　七星の霊だが、やがて、カッと睨みつけると、",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　田久地の目の前の床板が弾けた。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　弾けた板が、床に落ち軽い音を立てて跳ねる。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "――だから弱虫って言ってんだよ！",
+            "馬鹿野郎！",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！　……七星ちゃ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あなたそれでも私と同じ、先生の助手？！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "死んだ先生が！",
+            "あなたを助けようとしてくれているのが、",
+            "どうして分からないの？！"
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　七星が壁に向かって指をさす。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　――そこには血文字が書かれていた。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれは……",
+            "何度も僕を救ってくれた、言葉。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "筆跡で判らない？",
+            "あれは先生が助けてくれているのよ！",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　霊体の七星が、",
+            "　涙を流しながら強い口調で怒鳴りつける。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　そういえば――田久地は、いつも見ていた。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鬼碑忌の、この凛とした筆致を。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ここから紡ぎ出される、",
+            "　温かみある言葉の数々を。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　心を震わせる壮大な物語を雄弁に伝える、",
+            "　その生の原稿を。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あなたが生きるのを諦めたら……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生の気持ちは誰が受け止めるの！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　床に転がった壊れていたカメラに、",
+            "　勝手に電源が入る。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "死んだ私にはもうできない！",
+            "あなたがちゃんと繋いでよ！",
+            "……田久地さぁん！"
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　眼鏡を上げ、制服の袖で目をこすり、",
+            "　涙を拭きながら訴える七星。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……はは",
+            "……先生、カメラまで直してくれた。",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕の使命は……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　カメラを、七星の霊に向ける田久地。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "世紀の、映像を撮ることだね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "七星",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　モニター越しの七星の霊が、",
+            "　フッと柔らかい表情をする。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "僕は田久地将五。",
+            "……鬼碑忌コウ先生の助手であり、",
+            "カメラマンだ……"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生とはぐれてしまったが……",
+            "僕は先生との約束どおり、",
+            "何があっても録り続けようと思う。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "最後まで記録し続けて、",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "この事実を、僕の生きた証として残すん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！！　何だ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（あの声は……",
+            "　さっき泣きながら歩いていた女の子だ！）",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "追いかけよう！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ハァ、ハァ、ハァ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "最後まで記録し続けて……",
+            "次の人に、未来を――繋げてもらうんだ！",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　３階への道は塞がれています……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【保健室】",
+            "何かに阻まれて、入れません……",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "奥に進む",
+            "やめる",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "（いや、ここまで来たんだ奥へ進もう）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　そこは小さな洞穴のような、",
+            "　狭く暗い洞窟だった。",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "用務員室の奥に、",
+            "こんな隠し部屋があるなんて……",
+            "っていうか、なんだ？　もの凄い悪臭だ。"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "世以子",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "直美……大丈夫かな……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "世以子",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　古いストーブがあります。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　天板に何かが溶けてこびり付いたような",
+            "　跡が残っています……",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　1975年 11月18日",
+            "　まで日付が×で消されています……",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　棚の中には【宿直日誌】と書かれたノートが",
+            "　置かれていますが、カギがかかっていて",
+            "　開きません。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　でこぼこのやかんが置いてあります。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あの子はどこに消えたんだ？",
+            "やはりあの襖の中か……",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ、開かない……！",
+            " ",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　流しには、カビの生えた茶葉が",
+            "　散乱しています……",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【理科室】",
+            "　扉に鍵がかかっています。",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "彼の心は空洞",
+            "二つの目は无（む）への入り口",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "心を強く持ち　決して目を合わせるな",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "見ぃ～つけた……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひィッ！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（か！　身体が……か、金縛り……？！）",
+            "",
+            ""
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう、はなさない",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "グァ！！　……アアァッッ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひたと……ないぞう",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ッ！！！　……ギアアァーーーーーーーッ！！",
+            "ごぼごぼごぼ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もらうね",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うあェェェェ！！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ふふふふ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うふふふふ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "霊",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "誰もいない……",
+            "さっきの女の子はどこへ行ったんだ……？",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まさか……この中に……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何もいないか……ん？",
+            "なんだか、",
+            "この中から空気の流れを感じる……"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "中に入る",
+            "入らない",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "奥の壁が……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　押し入れの奥の壁を押すと、",
+            "　簡単にベニヤの板が外れ……",
+            "　その更に奥へと続く通路が現れた。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "何もいないか……ん？",
+            "なんだか、",
+            "この中から空気の流れを感じる……"
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "中に入る",
+            "入らない",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "奥の壁が……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　押し入れの奥の壁を押すと、",
+            "　簡単にベニヤの板が外れ……",
+            "　その更に奥へと続く通路が現れた。"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぎゃっ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "田久地",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　何か、橋になるようなものでもあれば……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　何か、橋になるようなものでもあれば……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

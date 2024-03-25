@@ -1,0 +1,1232 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra003_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "おねえちゃん、いる……？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん、いますよ～。　どうぞ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どうしたのですか？　ちっちゃい肩を",
+            "すぼめてしまって。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "キュートなお顔が泣いてますねぇ？",
+            "……おいで？",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "黙っていたいですか？　話したいですか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……聞いて欲しい……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、聞かせて下さい？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おねえちゃんって、今のお仕事……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いつ……なりたいって決めたの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん～……。そうですねぇ、たしか……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ちょうど、あゆみちゃんと同じくらいの",
+            "トキでしたね。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "迷いはなかった？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい。私は……　大いなる自然の意思に、",
+            "ただ身をゆだねているだけですから。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まぁ、反対は一杯ありましたけれど……。",
+            "あゆみちゃんも、見ていたとおりですね。 うふふ♪",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おねえちゃん、格好いい。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私は……自分の力が不安で、自信がなくて……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "一歩前に出る事が……　怖くて出来ないの。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "こわくて、こわくて……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "自信……　うん、単純な言葉だけど、",
+            "とっても大事なコトですね。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あゆみちゃんの実力は本物ですよ？",
+            "お姉ちゃん、ずっと見て来ました。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "苦労して、苦労して……　一生懸命",
+            "積み重ねてきた、今の実力でしょう？",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それなのに、あなた自身があなたを信じて",
+            "あげなくてどうしますか？",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "イラストレーターを夢見て、",
+            "今まで一生懸命描き続けて来たあゆみちゃん……",
+            "頑張ってきたあゆみちゃん。"
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お父様やお母様に『堅実な職業を』と、",
+            "何度反対されても……",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "夢に向かって……　目をキラキラさせて",
+            "進み続けたあゆみちゃん。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "信じてあげなきゃ、かわいそうでしょう？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "んん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まだ隠れてる子がいますねぇ、",
+            "ここに……（くりくり）",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……うん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "出ておいで？　お話聞かせて？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……私より、　　　　　　",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私より上手いひと、一杯いるもん！",
+            "ネットとか見てたら……",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私、どんどん自信なくして……",
+            "何千、何万ものヒトがいる中で",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "どれだけの幸運か、力があったら……",
+            "そのヒト達の、前に出て行けるの？ って……",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私のお友達に、お仕事で絵を描いている方が",
+            "いますが……",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "案外、どういう世界でも『動いた者』が",
+            "どんどん夢を掴んでいく……と聞きますよ。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "この娘を知っていますか？",
+            "今、心霊研究の学会の間でも、作家業界の間でも",
+            "有名になりつつある女の子。"
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　ひのえは、一冊の本をあゆみに手渡しました。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……？　なんて読むの？",
+            "……さえの　……き？",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『さえのき　なほ』さん。凄いスピードで",
+            "作品を書き上げて、どんどんどんどん投稿して……",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "メキメキと頭角を現している、次の半期の芥川賞",
+            "最有力候補と目されているんだとか。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "すごい……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんと、あゆみちゃんと同い年なんですよ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "う……（きゅーっ）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ニコッ）",
+            "　この娘はですね。実は、誰に文法やロジックの",
+            "　組み立て方を教わったわけでもなく……"
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ただひたすらに、我流で書き続けているそう",
+            "なのです！　どうやら、書くことが“楽しくて”",
+            "仕方がないみたいですね。"
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "楽しい、んだ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "自分を信じて、初心を忘れず。",
+            "失敗しても、その時対処すればいい。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私もいつも、そう自分に言い聞かせているのですよ。",
+            "うふふ♪",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……おねえちゃん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "決めた！　私もっと頑張って、絵描きさんになる！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、うん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "それでね、同い年のこの人……",
+            "なほ……？　七星さんの本に、",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "表紙、描かせてもらうんだ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "わぁ～！　凄い！　素敵ですね。",
+            "お姉ちゃんもその本、今から楽しみですよ！",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私の自慢の妹です！　……って、",
+            "ウチのお客さんにジマンしちゃいます！",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "応援、してくれる？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はい！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（ぱぁっ）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おねえちゃん、大好き！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お姉ちゃん、応援していますよ……",
+            "あゆみちゃん。",
+            " "
+          ]
+        },
+        "Name": "ひのえ",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

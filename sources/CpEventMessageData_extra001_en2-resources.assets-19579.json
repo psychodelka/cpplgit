@@ -1,0 +1,4044 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra001_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "My name is Nana Ogasawara. I'm a seventh-grader at",
+            "Musashigawa Girls' Middle School.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And I can't help but wonder, why did this happen",
+            "to us?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I was just playing around with some drama club",
+            "friends and some high school kids after class...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...when suddenly, everything went white, and we",
+            "found ourselves trapped in here!",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And by we, I mean me, my friend Chihaya Yamase from",
+            "homeroom, and an old friend from another class,",
+            "Nari Amatoya, whom I've known practically forever."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Those two were the only ones in the room with me",
+            "when I came to. I'm not sure what happened to the",
+            "others."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A rep from another class, Hikari Kirigami, and two",
+            "high-schoolers named Naruse and Kazane were with us",
+            "before, but are nowhere to be found now."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So Chihaya, Nari and I have been wandering these",
+            "halls aimlessly for quite some time in search of",
+            "them."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chihaya was the first to brave using the bathroom,",
+            "and even went in alone...but came running out not a",
+            "moment later, claiming to have heard a scary voice."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "During her flight, it seems she dropped the pouch",
+            "she always carries with her...and I've agreed to",
+            "go in and find it in her place."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Vast quantities of medicine and tonics are lined up",
+            "on each of the shelves.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a pair of scissors on one of the shelves,",
+            "both its blades covered liberally in blood.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an open journal and a framed picture on the",
+            "desk.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The journal seems almost decorative, as if it were",
+            "a plastic model built into the desk. No part of it",
+            "can be moved even the slightest bit."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an open journal and a framed picture on the",
+            "desk.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The journal seems almost decorative, as if it were",
+            "a plastic model built into the desk. No part of it",
+            "can be moved even the slightest bit."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The handle turns with a loud squeak, but not a drop",
+            "of water comes out.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an anatomical diagram of the human body",
+            "tacked to the wall.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Somehow, its eyes seem as if they're watching your",
+            "every move...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's an old-fashioned space heater.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Unfortunately, it's so full of ash that it'll",
+            "probably never light again.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's an old-fashioned space heater.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Unfortunately, it's so full of ash that it'll",
+            "probably never light again.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Vast quantities of medicine and tonics are lined up",
+            "on each of the shelves.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[A Guide To Feeling Despair]",
+            "--It's easy!--",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yes, it really is as simple as you'd think.",
+            "No problem at all. Even a child can do it!",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What is there to explain?",
+            "Just feel it, and there you are!",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But what if you want to STOP feeling it?",
+            "Well, now, that's the tricky part...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aha! It's a hat!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a felt hat on the ground that seems to",
+            "radiate an air of luxury and refinement. Take it?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yes",
+            "No",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Acquired [Felt Hat].",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chihaya...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm tired...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I hate this. *sob* *sob*",
+            "I want to go home...",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chihaya...",
+            "It's okay. We'll get out of here. I know we will!",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "How can you even say that?",
+            "What possible reason could you have for believing...",
+            "that we'll ever be able to leave this place?"
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chihaya...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Are you saying I can hold you responsible...if we",
+            "never get home again?",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chihaya! That's enough!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 124,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I've had about all I can take of your whining!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 125,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We're not in the safety of our own familiar little",
+            "world anymore. People aren't going to bend over",
+            "backwards to spare your feelings here!"
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 126,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We're fighting for survival! It's every girl for",
+            "herself!",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 127,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So don't think for a minute that we're going to",
+            "stop and console you every time you have a damsel",
+            "in distress moment, just because we're your friends!"
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 128,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Waaaaaaaaaahhhh!!",
+            "Eyaaaaaaaaaahh!!",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Go ahead and cry! See if I care!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 129,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Nari, that was totally uncalled for.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Not everybody's as strong-willed as you, you know.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fine. Do whatever the hell you want, then!",
+            "*sniffle*",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 130,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a message scribbled on the wall:",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Try the stall to the right.'",
+            " ",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Is it...a gh-ghost...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This room does give me the creeps, but I promised",
+            "Chihaya I'd find her pouch. I can't leave without",
+            "it."
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aha! Found it!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a pink, plastic pouch on the ground.",
+            "Pick it up?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yes",
+            "No",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Acquired [Chihaya's Pouch].",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Most impressive. You found what you were looking",
+            "for, without searching my stall. People have been",
+            "barging in on me a lot lately, you see."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I've been getting rather uppity with the living",
+            "for always shamelessly opening the door with",
+            "reckless abandon, as your comrade did a moment ago."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "See, I'm quite easily frightened, as it happens. The",
+            "only place where I feel truly safe and at home is in",
+            "this restroom stall."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(It's strange... I can't explain why...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(...but I don't find this person scary at all...",
+            "even though he's clearly a ghost...)",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "As the spirit sways from side to side, the faint",
+            "blue light radiating from his body twinkles",
+            "throughout the room."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You are too kind...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Offered [Superstar Sunglasses] to the spirit.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*disgusted sigh*",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The spirit stuck out his lower lip and shook his",
+            "head quite fervently.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Seems he doesn't much care for them.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 122,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Guess they're not his after all. Unsurprisingly.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Offered [Distinguished Glasses] to the spirit.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You have my eternal gratitude. I have always felt",
+            "that these glasses existed in this world solely to",
+            "be worn by me. Oh, how I missed them..."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "They look really good on you.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I guess all that's left now is to find your hat,",
+            "right?",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You are too kind...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You are too kind...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The mirror's so cloudy, you really can't make",
+            "anything out.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This mirror is perfectly clear, but only your own",
+            "pallid face stares back at you.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strong stench hangs over the urinal.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "For goodness' sake, Chihaya... This is clearly the",
+            "boys' room!",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Nana?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 113,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eeek!",
+            "...Oh, it's you. Don't scare me like that!",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Sorry. You've just been in here for a while, so I",
+            "was getting a little worried. Is everything all",
+            "right?"
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 114,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Y-Yeah, everything's fine. Thanks, though.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Great. I'll stay with Chihaya, then, and you finish",
+            "what you're doing. But please, if you can, hurry",
+            "it up."
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 115,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A child's bloody handprint is clearly visible on",
+            "the glass.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "SHUT THE GODDAMNED DOOR!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "EEK!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wh-Who the heck was that?!",
+            "That was definitely a voice!",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...I have no means of being exorcised from this",
+            "place, of course. So this is as close to a home",
+            "as I can find."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ahhh... Be it ever so humble...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ahhh... Be it ever so humble...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 14,
+        "Timing": 2,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 1,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sigh*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 132,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's really true...",
+            "He's not scary at all...",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 120,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If I may, I have a favor to ask of you three. Some",
+            "rogue fiend has absconded with my prized gentleman's",
+            "set."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "By which I mean, my hat and my glasses.",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If you should happen upon them in your wanderings,",
+            "would you be so kind as to return them to me?",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Sure thing!",
+            "Uh...no?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "So your possessions have been stolen, then?",
+            "That's terrible...",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wait here. We'll find them.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You are too kind...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I...don't think that's a good idea...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I read in a book once that if you should heed the",
+            "requests of the dead, you'll soon follow them into",
+            "death yourself."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Remembering those words suddenly filled me with",
+            "dread. I knew we had to get out of that room...so",
+            "I turned tail and ran."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The others weren't far behind. After we caught our",
+            "breath, we began wandering the darkened halls of",
+            "the abandoned school building once again."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naruse... Kazane... Hikari... Our missing friends.",
+            "We called their names over and over again as we",
+            "walked."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But our voices just seemed to be absorbed by the",
+            "darkness in front of our faces, where they melted",
+            "away into nothingness."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We knew that eventually, those voices would give out",
+            "altogether, and our bodies would cease to function.",
+            "It was only a matter of time."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But despite that inevitability, we decided then and",
+            "there that we would keep on walking, for as long as",
+            "it took."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We couldn't give up. We had to continue struggling",
+            "against our fate, calling out into the darkness with",
+            "whatever voices we had left..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            " ",
+            "...for as long as we lived...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You have my thanks once again. I've always cherished",
+            "this hat, you see. It was specially selected for me",
+            "by Tanaka...one of my most beloved subordinates."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm so glad we were able to find it. It seems like",
+            "it means a lot to you, and it just feels really good",
+            "to help someone in need."
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Doesn't it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 131,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You are truly benevolent souls. My eternal gratitude",
+            "is yours.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You possess such clear eyes and pure hearts...",
+            "If I still lived, I would use the rest of my days",
+            "to offer you protection and guidance."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I shan't lose these items again. And I should hope",
+            "that you not lose the generosity you've shown...for",
+            "this place can quickly and easily crush the spirit."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "In times like this, especially, it is important that",
+            "you not succumb to despair, nor forsake your true",
+            "nature."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Rather, you should scoff in despair's rotund face,",
+            "and embrace who you are. You should love yourselves!",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But now, I must bid adieu, for my home is calling to",
+            "me. I pray that you three, as well, will find your",
+            "way back to your own homes in due time."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fare thee well!",
+            "I LOVE YOU!",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 1,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Although still apprehensive about our surroundings,",
+            "we felt slightly better having done a good deed, and",
+            "held our heads high as we exited the bathroom."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "From there, we began wandering the darkened halls of",
+            "the abandoned school building once again.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naruse... Kazane... Hikari... Our missing friends.",
+            "We called their names over and over again as we",
+            "walked."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But our voices just seemed to be absorbed by the",
+            "darkness in front of our faces, where they melted",
+            "away into nothingness."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We knew that eventually, those voices would give out",
+            "altogether, and our bodies would cease to function.",
+            "It was only a matter of time."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But despite that inevitability, we decided then and",
+            "there that we would keep on walking, for as long as",
+            "it took."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We couldn't give up. We had to continue struggling",
+            "against our fate, calling out into the darkness with",
+            "whatever voices we had left..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 34,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            " ",
+            "...for as long as we lived...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee. He's a pretty fun person, huh.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Too far. Go back one.'",
+            " ",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'One more over.'",
+            " ",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a pair of sunglasses in the stall with",
+            "star-shaped lenses.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Take them.",
+            "Back away slowly.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Acquired [Superstar Sunglasses].",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I think...it would be really hard to look good in",
+            "these.",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'One more over.'",
+            " ",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Seems like it could be crossed, with some effort...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The countdown has begun. You'd better hurry!",
+            "Hurry scurry!",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*wince* *moan* *sigh*",
+            "My leg really hurts, Nana...",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, my! Chihaya, I think you need to rest for a bit.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*weep* ...This is too much for me...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 123,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The two guys to the north of me are both telling the",
+            "truth. You should believe everything they say.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And you should also return to the third floor right",
+            "away, without exploring anywhere else beforehand.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 166,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Science Lab]",
+            "The door seems affixed to the wall like a model.",
+            "It can't be opened."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Infirmary]",
+            "The door is locked.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Infirmary]",
+            "The door is locked.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Use the [Infirmary Key]?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yes",
+            "No",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The guy to the south is a liar. You mustn't believe",
+            "a word he says.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The guy to the west is a liar. You mustn't believe",
+            "a word he says.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The loose board has gotten itself wedged in the gap",
+            "rather tightly. It won't come out.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Nana...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chihaya! I found it! Here.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Handed over [Chihaya's Pouch].",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yay! Thank you!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You know, though...when you drop something,",
+            "shouldn't YOU be the one to go look for it?",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Nari...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 83,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sniffle* *sniffle*",
+            "I... I'm...",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Don't cry, Chihaya. There's nothing scary in there.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "In fact, quite the opposite. There IS actually",
+            "a ghost...but he's friendly, and he even talked",
+            "to me!"
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You serious? Isn't that, like, dangerous?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No, it's totally fine! He seemed like a really",
+            "nice person. I don't suppose...you'd want to",
+            "meet him yourselves, would you?"
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whaa...?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 118,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I think...I would.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "After all, we've been here for several hours now,",
+            "and there hasn't been anyone else to talk to this",
+            "whole time."
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 119,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The three of us began wandering the darkened halls",
+            "of the abandoned school building once again.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naruse... Kazane... Hikari... Our missing friends.",
+            "We called their names over and over again as we",
+            "walked."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But our voices just seemed to be absorbed by the",
+            "darkness in front of our faces, where they melted",
+            "away into nothingness."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We knew that eventually, those voices would give out",
+            "altogether, and our bodies would cease to function.",
+            "It was only a matter of time."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But despite that inevitability, we decided then and",
+            "there that we would keep on walking, for as long as",
+            "it took."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We couldn't give up. We had to continue struggling",
+            "against our fate, calling out into the darkness with",
+            "whatever voices we had left..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            " ",
+            "...for as long as we lived...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[WRONG END]",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Looks like our noble party of adventurers has",
+            "accepted a quest. Let's give it everything",
+            "we've got!"
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Right-o!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Chihaya",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This is so ridiculous...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nari",
+        "NameFlag": 1,
+        "VoiceNo_low": 121,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[WRONG END]",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oww! ...That smarts...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Nana",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 10,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Warning: Your HP is getting low!]",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Looking for something? I'm sure you won't find it",
+            "downstairs anywhere...",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Find what you were looking for?",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The spirit that started on the bottom right does",
+            "NOT have an item you'd want.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Find what you were looking for?",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No touch the pretty key! It's my precccciousss...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 167,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The spirit is holding a key marked 'Infirmary.'",
+            "Yank it away from him?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yes",
+            "No",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Acquired [Infirmary Key].",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A strange force seems to be repelling you.",
+            "You cannot progress beyond this point.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "                   [Lavatories]",
+            "              <-- Girls     Boys -->",
+            "          Let's keep our restrooms clean!"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Beware the lies of the red spirits...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a pair of distinguished-looking glasses",
+            "sitting on the bannister. Take them?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yes",
+            "No",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Acquired [Distinguished Glasses].",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The item you seek is DOWNSTAIRS.",
+            "Need help finding it?",
+            "Try talking to the MOVING SPIRITS."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

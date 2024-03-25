@@ -1,0 +1,700 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra010_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige & Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sigh*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Can't seem to muster up much of a voice today.",
+            "I'm just not projecting. I should probably skip",
+            "theater club and go straight home..."
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ack, sorry, sorry! You okay, Morishige?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Do I look okay to you?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "U-Uhhh... I'm really sorry.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Honestly, you're always in such a rush. You need",
+            "to slow yourself down every now and again.",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Urgh... I have no idea where my glasses went...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Y-Your glasses? Here, I'll help you find them.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Just be careful you don't step o--",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 12,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "--Ahh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Uh...crap...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Goddammit, Kishinuma... Who else but you would step",
+            "on them AS I'M SAYING THAT?!",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I...uh...umm...I'm so sorry! I swear, I'll reimburse",
+            "you as soon as I get paid!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ugh... No, it's fine. I've got an old pair at home.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh...you do?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "However...I can't actually GET home in my current",
+            "state. Without my glasses, I'm blind as a bat. So",
+            "you're going to have to help me on my way."
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh? But...I have a job! Plus, I have no idea where",
+            "you live...",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll direct you. And you can call ahead and tell",
+            "your employer that you'll be late this evening.",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sigh* Well, I guess it is my fault.",
+            "Come on, I'll help you up.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Uhh...don't you think you're standing a little",
+            "too close to me?",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What other choice do I have? I can't see, remember?",
+            "If I don't stay right by your side, I won't know",
+            "where I'm walking."
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That doesn't mean you have to freakin' feel me",
+            "up! It's...weird! I can feel your body heat!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Don't worry, it's just as uncomfortable for me.",
+            "Put it out of your mind, and focus on not bumping",
+            "into anything, please."
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "All right, all right!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...There's no need to repeat yourself.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Dammit, I can't believe I'm still here. If I don't",
+            "hurry it up, I'll be late for work!)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Pretty sure I left my cell phone in my desk before",
+            "gym class...)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm? Hey, Shig, bro, izzat you? ...Wait...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mayu",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whaaat?! Why are you and Kishinuma walking arm in",
+            "arm?! It... It can't be...!",
+            ""
+          ]
+        },
+        "Name": "Mayu",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I didn't see a thing, I swear!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Mayu",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "OWW!! What the hell was that?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Watch your step, dumbass.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You're my eyes, remember?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You sure do complain a lot!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

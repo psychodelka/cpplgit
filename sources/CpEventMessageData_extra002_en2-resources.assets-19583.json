@@ -1,0 +1,947 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra002_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(...Damn...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Why are you running, little Yuka?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Could it be...you caught me while I was snapping",
+            "photos?",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Heheh... Looks like the chase is afoot!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(No...she went the other way.)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(And I need to find her...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A female student's corpse lies sprawled out on the",
+            "floor. There are a couple scraps of paper from",
+            "a letter-set gently resting atop her boney hand."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Luck is fickle...but I still have faith in it.",
+            "That good luck charm... I know it's stupid...",
+            "but I truly believe it works...'"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'So I know I'll see you again, Mao...and if anyone",
+            "else finds this letter...please...wish her good",
+            "luck for me.  -Kaori Kimura, class 2-4, Lexern High'"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Victim's Memoirs]",
+            "(4／5)",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "COLD",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "HURTS TO MOVE FINGERS",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "NO STRENGTH TO WRITE ON DESK",
+            "CANNOT TALK OR SEE FRIEND",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "TENDON IN LEG CUT",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "BLEEDING BADLY",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Might she be in here, perchance...?)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! A-Are you all right? Sorry about that...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 95,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ah, n-no worries.",
+            "(Someone from another school...?)",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm totally fine. I should apologize as well.",
+            "I wasn't looking where I was going.",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I see you're from a different school. My name is",
+            "Kizami. I'm a student at Byakudan Senior High.",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Sakutaro Morishige, from Kisaragi Academy.",
+            "...I'm grateful for the chance to meet another",
+            "living being."
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I hope your phone wasn't broken in the fall.",
+            "Let's have a look...",
+            "...Hmm?"
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Th-That's quite all right! I'll have a look myself!",
+            "Give it here!",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Damn, photo viewer open and everything...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Did he see...the corpse shot...?)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(If he did, then there's no way he'll want anything",
+            "to do with me anymore... Don't just look at other",
+            "people's phones without permission, goddammit!)"
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Now, if you'll excuse me...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hey!",
+            "...You responsible for...that?",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come again?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I had a feeling we might be cut from the same",
+            "cloth...",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 99,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm sure I don't know what you're talking about.",
+            "I'd appreciate it if you'd please just leave me be.",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 100,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hah... Hahahahahahahaha!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 101,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Let's meet again sometime, eh?",
+            "...Sometime real soon...",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Boys' Lavatory]",
+            "Any and all students responsible for damaging these",
+            "facilities will be severely reprimanded."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The restroom stalls are completely cut off.",
+            "There's no way anyone could get to them safely.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Yuuuukaaa?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(This room doesn't exactly lend itself to hiding in",
+            "its current state, I suppose.)",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Yuuuukaaa?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(This room doesn't exactly lend itself to hiding in",
+            "its current state, I suppose.)",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The mirror's surface is crusted over with hair and",
+            "dirt. You can't make out much of anything.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a rather unpleasant gurgling sound emanating",
+            "from the drain. Best to keep your distance...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The stench is almost overpowering...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The urinal drain is making low sputtering sounds, as",
+            "if its long-festering contents could spew out into",
+            "the room at any moment."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Yuuuukaaa?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(This room doesn't exactly lend itself to hiding in",
+            "its current state, I suppose.)",
+            ""
+          ]
+        },
+        "Name": "Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

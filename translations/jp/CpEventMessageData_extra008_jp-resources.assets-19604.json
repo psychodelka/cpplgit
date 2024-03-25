@@ -1,0 +1,339 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra008_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "七星くん、いるかい？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "君の見つけてくれた、天神町に伝わる",
+            "都市伝説だが……",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "君に危険があってはと思うので、私達だけで……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん……いないのか。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そういえば、今日はめずらしく、学校へ行くと",
+            "言っていたか……",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“センセイへ。",
+            "　私、センセイの為なら全然動けます。”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“天神町で行なった調査の纏めを検討しますと、",
+            "　多分、例の方法を『逆打ち』する事で",
+            "　帰って来られると思います。” "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“耐性を持たないセンセイと田久地さんだけでは、",
+            "　あの学校は危険だと思うので、”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“今日学校から帰ったら、やはり私も一緒に",
+            "　篠崎サチコのお呪いを行ないます。”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“本当に成功するかどうか、低めの確率ですけれど……",
+            "　上手く潜入出来れば、”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“きっといいネタＧＥＴ出来ますよね。”",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“センセイのお仕事、第三回も編集部が",
+            "　評価してくれたら……”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“美味しいもの、食べさせてね。",
+            "　　　　　　　　　　　　　　　　　　なほより”",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ふふ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ありがとう七星君……。やはり君を、",
+            "危険な目に遭わせるわけには行かないよ。",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "『逆打ち』の方法はわかっている。",
+            "僕が後輩と二人で行ってみるから、",
+            "君は待っていてくれ。"
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "書き置きでもしておくか……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "鬼碑忌",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

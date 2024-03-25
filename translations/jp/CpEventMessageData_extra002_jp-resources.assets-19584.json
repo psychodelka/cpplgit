@@ -1,0 +1,947 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra002_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "…………。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……くそっ）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "由香ちゃん、どうして逃げるんだい？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……まさか、見られたのか？",
+            "写メを撮っている所を……",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……追いかけないと）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（あの子は……あっちに行ったな）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……追いかけないと）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　女生徒の亡骸が横たわっています……",
+            "　手元に、レターセットの切れ端が残されています。",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“幸運……",
+            "　幸運のおまじない　　　　　",
+            "　馬鹿馬鹿しいケド信じてるから……”"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "“奈央、きっと会えるよ",
+            "　　　　　レクサーヌ高等学校",
+            "　　　　　 2年4組　木村かおり”"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "…………。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【犠牲者の手記】（４／５）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "さ　む　い　……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ゆ　び",
+            "うごか　な　イ……",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひつだん　もできな　い……",
+            "あ　いた　い",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "足の筋　切られた",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "血……いっぱい出た",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……もしかして、ここに？）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ！　だ、大丈夫か？　すまない……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 95,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ……っ、い、いや。",
+            "（他校の奴か？）",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……平気だよ。……こっちこそ、悪かった。",
+            "よそ見をしていて。",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺と違う学校だね……",
+            "俺は、白檀高等学校の刻命（キザミ）だ。",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "如月学園、森繁朔太郎だ。",
+            "……生きている人に会えて、良かった。",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "壊れていないか？　ほら。",
+            "……ん？",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "い、いい！　自分で取れる！",
+            "……返せ。",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（……くそっ、画像開いたままだった",
+            "　じゃないか……）",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（見られたか……死体の写真）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（だったら、コイツと行動を共にするのはもう",
+            "　無理だな。……チッ、勝手に見るなよ）",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "失敬する。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お前。……やったのか、ソレ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……何？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……。　お前も、同類かと思ってね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 99,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……何の事だか判らない。俺に、構わないでくれ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 100,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ッハ！　ッハッハッハッハッ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 101,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "また会おうゼ、オイ。　……近いうちにな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "刻命",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "【男子学生用　厠】",
+            "　器物を破損せしめた者は、厳罰に処す。",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　個室には、逃げ込めそうにありません。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……由香ちゃん？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（これじゃ流石に隠れられないか……） ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……由香ちゃん？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（これじゃ流石に隠れられないか……） ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　鏡は水垢が酷く付着し、よく見えません……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　排水孔から、ゴポッ、ゴポッと不快な音が",
+            "　鳴っています。",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　強烈な臭気を放っています……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "　便器の排水孔からゴポッ、ゴポッと",
+            "　空気の固まりが噴き出す音が鳴っています。",
+            " "
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……由香ちゃん？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（これじゃ流石に隠れられないか……） ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "森繁",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 8,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

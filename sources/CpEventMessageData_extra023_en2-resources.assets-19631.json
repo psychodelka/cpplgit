@@ -1,0 +1,1802 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra023_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "After being attacked by Yoshikazu, Yoshiki's life",
+            "was saved by Ohkawa.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And though Ohkawa was unable to recover from the",
+            "shock caused by his friend Ryosuke's death...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...he did make a marked improvement during the",
+            "time he spent with Yoshiki.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Unfortunately, with the child spirits closing in,",
+            "the two of them wound up going their separate",
+            "ways in hopes of thwarting their pursuers."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Leaving Yoshiki with a forced promise that the two",
+            "of them would get out alive, Ohkawa ran off down the",
+            "darkened corridors, alone."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And these are the things he then experienced...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant*",
+            "  *pant*",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(God, no matter where I go, it's nothing but",
+            "bleached white bones and the smell of death.)",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The remains of a female student were sprawled out",
+            "on the ground, face down.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The lenses from her glasses had come out of their",
+            "frame and were shattered to bits nearby, crushed",
+            "by some hopefully long-departed force."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And the back of her skull was smashed even worse,",
+            "to the point that it was basically just a mess of",
+            "bone fragments and viscera."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...U-Urabe?! Ulgh...ghph...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Gotta watch myself. I need to keep quiet.)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The tear tracks down her cheeks, along with her",
+            "wide-open eyes full of fear and pain, told",
+            "a frightening story of her final moments."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "These, along with the spatters of blood all around",
+            "her, suggested she'd suffered an intensely violent",
+            "beating in the moments leading up to her demise."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(This is unconscionable...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Who did this to you, Urabe?",
+            "...! Don't tell me...it was Yuuya!)",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(No, I can't jump to conclusions like that. I need",
+            "to pull myself together. I'm just overthinking",
+            "things.)"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I wonder if Kishinuma was able to escape",
+            "successfully...)",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?! Who's there?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaah...aaaaahhhh...a-aaaaaaaAAAAAAAHHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 147,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(A girl...?)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wait! I'm not going to hurt you! Please, try to",
+            "keep your voice down!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "N-No... You're lying! You're LYING!!",
+            "Keep away from me! Don't get any closer!",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 148,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "She was absolutely emaciated, and shaking",
+            "violently. This girl was clearly not well.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm sorry. I'm not trying to scare you. Honest.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "STAY BACK!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 149,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I swear I won't hurt you. I might even be able to",
+            "help you. I can protect you.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...!",
+            "P-Protect...?",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 150,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's right. This is a scary place. And you don't",
+            "have to face it alone.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Ghhh... *sob*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 151,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I have to take the lessons I learned from Kishinuma",
+            "to heart. If I show just a little courage and",
+            "confidence, even someone like me can save lives.)"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Besides, I've got you on my shoulder too, Ryosuke!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Can I really...*sniffle*...trust you?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 152,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Of course. Look at you! You're shaking. You've",
+            "been through a lot in here too, haven't you?",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I've been...really...really scared. I really want",
+            "someone...to help me...",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 153,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I was just as scared until a short while ago.",
+            "Believe me, I understand.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But it's okay. You're not alone anymo--",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "--RLGH...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 154,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Now that is a lie. When people die, they're always",
+            "alone. You know that better than anyone, Ohkawa...",
+            "don't you?"
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Yuu...ya...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh... Ghhaaah!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 72,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A fine spray of blood was propelled from Ohkawa's",
+            "mouth, raining down on the female student's face.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "EEEK!! Aaa-aaaaaahhh...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 155,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Where did you get yourself off to all this time,",
+            "Ohkawa? I was looking everywhere for you!",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yuuya... You bas...tard...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 73,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I didn't think I'd ever see you again.",
+            "How wonderful that I was wrong!",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "With a cold, unaffected gaze in his eyes, Kizami",
+            "proceeded to slice up and down Ohkawa's back",
+            "as if he were carving a turkey."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ALGH!! Unnngh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 77,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...*gasp*... Get...out...",
+            "Run... Hur...ry...",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "N-NOOOOOOO!! AAAAAAAAAAHHHHHHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Female Student",
+        "NameFlag": 1,
+        "VoiceNo_low": 156,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "St-Stop! Stop it...Yuuya...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...!",
+            "How can you do this? What have you become?!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What you made me. You're the one who broke my seal",
+            "and set me free, aren't you? I'm not the 'Yuuya'",
+            "you knew any longer."
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GHH!! ...God, that hurts...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 77,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I've so longed to see it... The object of my",
+            "deepest, darkest desires, locked away in the back",
+            "of my head... That moment when a human life ends..."
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You really are the best, Ohkawa. The way you",
+            "squirm... The way you roll about haphazardly...",
+            "The way you rant and rave, and beg..."
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hahaha...",
+            "Cowardice isn't such a bad quality after all.",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "One could even say it's a sixth sense, of sorts.",
+            "An ability to sense danger and react to it with",
+            "little delay or hesitation."
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*gasp* *pant*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 78,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Hey. What are you doing? Why aren't you desper-",
+            "ately trying to escape? You should be bawling your",
+            "eyes out while you try in vain to run from me."
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What the hell are you talking about?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 79,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ohkawa... I don't like the look in your eyes",
+            "one bit. Go on. See if you can get away from me.",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You're insane, you know that? You are an insane",
+            "man, Yuuya...or rather, Kizami. You're out of your",
+            "mind."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmph. What's gotten into you, Ohkawa? This isn't",
+            "like you at all. You should be groveling by now.",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Not gonna happen. This way is much better.",
+            "It makes you...the pathetic one...",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 81,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm not gonna...give you the satisfaction...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*twitch*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Ghhh... *pant* *pant*",
+            "You're...so...",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 83,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...so...sad...you murderer...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And you really are a murderer, aren't you? You",
+            "killed Urabe, didn't you?!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "H-Haha... I'll bet you think you're so clever.",
+            "That you've deceived us all this whole time.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 86,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Is it fun betraying everyone who's ever considered",
+            "you a friend? Is it fun hurting them?! You having",
+            "a good laugh?!"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 78,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You're the worst kind of human being. I...",
+            "I can't ever forgive you for what you've done.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Even if I'm killed here...I will despise you",
+            "forever. Till the end of time.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Is that all you have to say to me?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What, you want more?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GHH!! ...Unnngh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I thought I'd be able to have a little more fun",
+            "with you, Ohkawa. What a pity I was mistaken.",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant*",
+            "  *pant* *pant*",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ki...zami... Can't...ever...fff...",
+            "...forgive...you...",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 92,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...It really is the same. Whether you're killed",
+            "by the school or killed by me...it's the same",
+            "thing."
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You won't give me the satisfaction? That's",
+            "a meager defiance. From you and Yamamoto both.",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Hmph.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ki...za...mi...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 93,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Don't think we'll be able to break through too",
+            "easily. We'll need to find another way around.)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Those kid spirits will be hanging around here for",
+            "a while yet, most likely. Probably best to keep away",
+            "from here for the time being.)"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

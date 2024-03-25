@@ -1,0 +1,871 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra005_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "おぉ！　これってデートに誘っても",
+            "ＯＫってことか！？",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 155,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれ……？　なにその台詞。",
+            "俺んときそんなのなかった。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "来いよ。『恋のソムリエ・片山様』と呼んでも",
+            "構わんぞ？",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 156,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まだまだだよ。とにかく一遍クリアしてくるんだ。",
+            "話はそれからだ。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ちっ、見てろ？　ド肝抜いてやる。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 157,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "盛り上がるのは結構だが、ここが生徒会室で",
+            "あることは忘れてないだろうな。",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もちろん、忘れてない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 158,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "大丈夫大丈夫、いつものことだし。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "俺たち適当に遊んでるから、気にしなくて",
+            "いいぞ～",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 159,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そうそう。さっさと生徒会の仕事終わらせて",
+            "一緒に帰ろうよ、雅人。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "っ……あのなぁ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あっ！　ちょっと……良介！",
+            "それ二股って言わない！？",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふふん、俺は手広く行くのさ！　ウルァ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 160,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわ！　手出した！　なんて事を！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ウィ～～ス♪",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もぉ～、ちゃんと本命一筋で行けよ～",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん？　……何騒いでんの？　俺も混ぜてくれよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ただの恋愛ゲームだぞ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ほぉー、ゲーム。お前らホント好きだよな～",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いま、かっこわらい。とかつけなかったか、オイ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いや、だってさぁ、ねぇ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "恋愛プアーは言う事が違うね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なんだと？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まぁ、実物見て、目覚ませって。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 162,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おお……か、可愛いじゃん！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "だろ～？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "へぇー……なにこれ超リアル。　……あっ！",
+            "なぁなぁ、これ袋井にやらせようぜ。",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いいねぇ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふ・く・ろ・い・く～ん？",
+            "ちょっとこれマジで面白そう。一緒にやろうぜ！",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 52,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はぁ？　俺は今、仕事中……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 12,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "固いこと言うなって。ほら、袋井どの子が好み？",
+            "選ぶまで仕事させないぞ。",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……～～ったく、邪魔ばかりするな、お前らは、",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふんふん……？　お……可愛いな。",
+            "……ほぉ……小っちゃ！　……お……？　胸デケ……",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うわッ！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "乳見て即決て！！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "袋井！　お前、ははっ！　巨乳好きだったのか？！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "きょっ……　巨乳とか大声で言うな！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "なるほどなぁ……いや、うんうん、",
+            "いいんじゃないの～？",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……っ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "性癖がでるよな、こういうの。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "片山",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お堅い人ほどムッツリだという",
+            "典型的なパターンですね。",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "う、うるさい！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "袋井",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "照れない照れない。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "大川",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ははははッ。んじゃ俺部活行ってくるわ～",
+            " ",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "って、ところで片山、今度それ……",
+            "マジかしてくれない？",
+            " "
+          ]
+        },
+        "Name": "黒崎",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 7,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

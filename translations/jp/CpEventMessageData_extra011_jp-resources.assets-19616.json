@@ -1,0 +1,700 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra011_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "お兄ちゃ～ん！　見て見てこれ～！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "すっごいの、甘いの……！　あれ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いないんだぁ、なぁんだ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "由香～？　帰ったの？　ただいまって言いなさい。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ただいま～～！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "由香、あんたベルマーク集めてたよね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ほら、一杯貰って来たよ。",
+            "お隣の佐藤さんが由香ちゃんに、って。",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "わぁ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "良かったね。どうする？　自分で学校持ってく？",
+            "お母さんに任せる？",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "由香持ってく！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そう。褒められておいで……って、",
+            "あんたも一杯溜めたのねぇ。何買ってるの？",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ビーズ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ～～～　……なるほど。『香りのビーズ』ね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 166,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "今ね、新しいの買ってきたの。キャラメル味。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "（―味？）",
+            "ほ～。今度はどんな効果があるの？",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 167,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "えっと、怪我とか事故とかから守ってくれるの。",
+            "あとね、",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふんふん？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……ないしょ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ぷっ、あらそう～。大事にしなさいね？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 169,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん。（こくり）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふふっ……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "えへへ……恋愛成就だもん。",
+            "あげた人に思いが通じるの。",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あら～～～ホント？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ひゃっ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれれ、誰にあげるのかしらね～～クラスの子ぉ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もう、ないしょ！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うふふふ、はいはい。",
+            "……あ、そうそう。由香、あんたねぇ、",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "哲志のベッドに、靴下とかパンツとか置き忘れるの、",
+            "やめたほうがいいわよ？",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "う。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "洗濯物、自分でたたむのは偉いんだけどねぇ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お部屋に戻ってしまう前に、そうやって寝ちゃうから",
+            "忘れていくのよね～",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "んん～、気をつけるもん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 177,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "由香？　……ビーズ。",
+            "ＧｏｏｄＬｕｃｋ！",
+            " "
+          ]
+        },
+        "Name": "母",
+        "NameFlag": 1,
+        "VoiceNo_low": 178,
+        "VoiceNo_high": 14,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……うん！　えへへ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "由香",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 29,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

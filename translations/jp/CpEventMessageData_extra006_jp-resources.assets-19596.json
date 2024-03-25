@@ -1,0 +1,700 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra006_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "篠崎さん、二日ぶりね。風邪大丈夫？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 206,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん。もう大丈夫。午前中、病院にも行ってきたし。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そう。良かったわ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ねぇねぇ、それより話の続き。……先生彼氏いないの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふふ。……ええ、寂しい一人暮らしよ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ふ～ん……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "高校生の時に、お付き合いしてた人はいたけどね。",
+            "うふふ。",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そうなの？　え、聞かせて聞かせて。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あなたと同じ制服を着て……",
+            "よく３階の渡り廊下で会ってたっけ……",
+            "当時は若かったなぁ、私も。クスクス…… "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いいよねあそこ。静かだし、町、見渡せるし……",
+            "で、どんな人だったの？",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん～、そうね、優しい人だったよ。",
+            "ぶっきらぼうな喋り方をする人だったから",
+            "よく誤解されてたけど……"
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ちゃんと向き合ってみると、言葉の端々に",
+            "優しさがあったんだよね。",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "私だけが理解してあげてたの。",
+            "ウフ、これ自慢。",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……素敵～。で……何処まで進んでたの？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ん～……他の子にはナイショよ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "実は、キスもしてないの。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "え～！？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "手を繋いだだけで、心臓が破裂しそうだったもの。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "クスクス。先生でもそうなんだ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、でもね……手と一緒に、心が繋がってたから",
+            "私はいつも満たされてたよ。",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "素敵～……（ウットリ）",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "今ドキじゃ、こんなの格好悪いかしら？",
+            "うふふ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ううん、私は何だか好印象。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "結衣センセー。日直日誌持って来たけど。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あら、岸沼くん。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……いい所だったのに、もう。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "んお？　おー篠崎。何してんだ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "先生の話を聞いているとこ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "へー。楽しそうだな？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いいからあっち行って。ガールズトークなんだから。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "へーへー。先生、置いとくからー",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "はーい。",
+            "……篠崎さん、今日の日直って岸沼くんと、",
+            "あなたじゃなかった？"
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あれ……そうだっけ？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……いい子だねぇ～",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "誰が？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "クスクス。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "結衣",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

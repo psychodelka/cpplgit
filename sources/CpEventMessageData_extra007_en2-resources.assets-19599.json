@@ -1,0 +1,453 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra007_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Nice job today, Madame Rep!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naomi",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thanks! You too.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So what's the verdict, Ayumi? Are we knockin' 'em",
+            "dead with our delicious red bean soup, or what?!",
+            ""
+          ]
+        },
+        "Name": "Seiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, I'm kind of shocked how many customers we're",
+            "getting. There's just no end!",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "They're all being lured in by that kick-ass poster",
+            "you drew, if you ask me.",
+            ""
+          ]
+        },
+        "Name": "Seiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ahaha. You really think so? Thanks! I'm glad to",
+            "hear my work's being appreciated!",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, it's super-duper cute, so why wouldn't it be?",
+            "In fact, I'd kind of like to take a copy home with",
+            "me after the festivities, if that'd be okay..."
+          ]
+        },
+        "Name": "Naomi",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, of course!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hey, 2-5's got a haunted house set up, and they did",
+            "an amazing job with it!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We're heading over there now. Would you girls",
+            "like to join us?",
+            ""
+          ]
+        },
+        "Name": "Satoshi",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 19,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Right now? Sure...why not!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naomi",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaahaa, you'd better believe I'm comin'!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Seiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "How about you, Shinozaki?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Satoshi",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 19,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh? Hmmm... I'd...LIKE to go, of course...but",
+            "I've got to tend shop here.",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I can't just leave my post. You guys go without me.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, yeah... I didn't think of that. Sorry.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Satoshi",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 19,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Then, uh, maybe I should stay behind too. I'd feel",
+            "bad leaving you here with nobody to talk to...",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, don't you worry about little ol' me! You guys",
+            "go have fun. And be careful!",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well...we'll at least pick you up something to",
+            "drink on the way back, then...",
+            ""
+          ]
+        },
+        "Name": "Naomi",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come on, come on! Let's goooooo!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Seiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 10,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "God, you're shrill...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naomi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eheh. I really...don't need anything...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I don't...like it when people go out of their way",
+            "for me...",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

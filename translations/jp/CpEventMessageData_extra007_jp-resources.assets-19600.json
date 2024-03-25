@@ -1,0 +1,453 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra007_jp",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "委員長、おつかれ～",
+            " ",
+            " "
+          ]
+        },
+        "Name": "直美",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あ、おつー",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ね、ね、あゆみちゃん。大成功だね、おしるこ屋♪",
+            " ",
+            " "
+          ]
+        },
+        "Name": "世以子",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、びっくり。お客さん、まだ途切れないもんね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あゆみちゃんのポスターが良かったんだよね、",
+            "きっと。",
+            " "
+          ]
+        },
+        "Name": "世以子",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あは、そっかなー。　嬉しい♪　ありがと。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うん、すごい可愛い。お店終わったらあたし",
+            "一枚貰っていい？",
+            " "
+          ]
+        },
+        "Name": "直美",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "もちろん、い……　　　　　　　　　　　　",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 1,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "おい、５組で思いきったお化け屋敷やってるぞ。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "みんな、見に行かないか？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "哲志",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 19,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "まじ？　行こっか。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "直美",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "ギャー！　いく、いく！",
+            " ",
+            " "
+          ]
+        },
+        "Name": "世以子",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "篠崎は？",
+            " ",
+            " "
+          ]
+        },
+        "Name": "哲志",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 19,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "！　……ん～行きたいけど、私責任者だし……",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "お店離れらんないよ。みんなで行ってきて。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "そっか……残念だな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "哲志",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 19,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "んじゃ俺も、残るかな。",
+            "篠崎、話し相手になってやるよ。",
+            " "
+          ]
+        },
+        "Name": "良樹",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いいよ、ダイジョーブ。みんな、気をつけてね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……じゃぁ、なんか帰りに飲み物でも買って来るね。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "直美",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 13,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "いこいこ！　ギャーッ",
+            " ",
+            " "
+          ]
+        },
+        "Name": "世以子",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 10,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "うるさい。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "直美",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "あは……いいのに。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "……気…遣われるの、嫌いなんだけどな。",
+            " ",
+            " "
+          ]
+        },
+        "Name": "あゆみ",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 5,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

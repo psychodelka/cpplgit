@@ -1,0 +1,339 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra008_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Naho? Are you in there?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I wanted to talk to you about that Tenjin urban",
+            "legend you found.",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm thinking it may be a bit too dangerous to",
+            "bring you along, so Taguchi and I should probably",
+            "go by ourselves..."
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh. She's not here.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come to think of it, she did say she'd be going",
+            "to school today...which is rather unlike her...",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'To my dear mentor.",
+            "For you, I'll go to any lengths!",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Based on my findings from old Tenjin town records,",
+            "I feel more confident that it IS possible to return",
+            "from the school using the escape plan we discussed."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'But you and Taguchi don't have the ability to",
+            "resist spirits like I do. It would be far too",
+            "dangerous in there for just the two of you."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'So when I get home from school today, I'll",
+            "be joining you in performing the charm of",
+            "Sachiko Shinozaki."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'I don't hold out much hope for our success,",
+            "but if it works...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'...you're seriously going to get the scoop",
+            "to end all scoops.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'If I can help make lightning strike a third time",
+            "for you with your editorial department...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'...then you totally owe me dinner.",
+            "                                        -Naho'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 9,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Haha.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thank you, Naho. But I really can't allow you to",
+            "put yourself in danger like that.",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I know the escape plan. I'm going to go with trusty",
+            "old Taguchi, and you're going to wait for us here.",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I guess I should write her a note to that effect...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 6,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

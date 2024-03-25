@@ -1,0 +1,6856 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra021_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "So, when are you leaving again, Taguchi?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, come on! Do you really have to ask me that every",
+            "time you see me?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 161,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, I have good reason to. You've been over for",
+            "a long time now.",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I haven't even been here ten minutes!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 162,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho, please don't be mean to Taguchi.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He's going to be helping me gather data again",
+            "tomorrow, you know.",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But he's been coming over soooo often lately!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He's basically mooching off of our good will at",
+            "this point. And enough is enough, don't you think?",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Normally, a house guest will be able to tell when",
+            "he's overstayed his welcome, but not Taguchi! He has",
+            "no compunctions about staying well past his prime."
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I literally just got here!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 163,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho? That's enough, now. Heh.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 202,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hahaha...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Naho is always so mean to me, but deep down, I know",
+            "she's a good person...probably.)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(And all of my interactions with her, abusive though",
+            "they are, are absolutely precious memories to me",
+            "now.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I wouldn't trade my time with Mr. Kibiki and Naho",
+            "for anything. This footage is my rock... It's all",
+            "the inspiration I need to get through this.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I paused the video for a moment on Naho's face,",
+            "cheeks puffed as she was readying herself to make",
+            "some sort of quip I'm sure I didn't deserve."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'So what's your fortune for today?",
+            "Horrible, rotten luck, was it?'",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'You could at least wait till I read it before",
+            "planting that suggestion out there! Seriously!'",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 164,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Pff.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 165,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I set my camera down with a dull thud.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heh... Hahahahahaha!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 166,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hahahahahaha!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 167,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Phew... Those were good times.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 168,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Where did you get yourself off to, Mr. Kibiki?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 169,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I glanced down at my watch almost habitually, though",
+            "it was kind of pointless to do so.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Still frozen in time, huh? Feels like it's been",
+            "around...I dunno, maybe two days since we got",
+            "separated? So hard to tell in this place...)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mr. Kibiki! Mr. Kibiki!",
+            "There was something there...right there, just a few",
+            "seconds ago!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 170,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Where?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 203,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There! Right over there!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 171,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ahh...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 172,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hey, you! Wait! Stop!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 173,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hold u--",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 174,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "--ULGH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 175,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Are you all right?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oof... I'm really sorry. I stepped on something",
+            "and...the camera! Is it all right?!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 176,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Seems to be.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?",
+            "UUWAAAAAAAAGGGGHH!!",
+            "AAAAAAAAAAAAGGGGGGGGHHHHHHHHH!!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 177,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 206,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "AAAAAAHAAAHAAAAAAAAAAAAGGGHHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 178,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Taguchi! Where are you going?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Right behind his back, I'd seen a light blue",
+            "figure...a ghost. And it scared me out of my wits!",
+            "I just bolted, and didn't look back.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(It seemed to work, as I hadn't seen a single ghost",
+            "since. Unfortunately, I also hadn't seen Mr. Kibiki,",
+            "nor any other human beings for that matter.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Not any living human beings, anyway. Dead ones were",
+            "in plentiful supply, some telling stories of their",
+            "gruesome final moments through their injuries.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(At first, I was capturing footage of them all,",
+            "excited for this exclusive scoop. But it didn't",
+            "take long for the novelty to wear away.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I began to realize that I was trapped in here. Not",
+            "a single window or door to the outside was budging.",
+            "It's like they were all just painted on.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(The air was cold and stagnant, and I was completely",
+            "alone. No Mr. Kibiki, no anyone... Just me and a",
+            "whole host of increasingly worrisome corpses.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I almost felt like I was in quarantine or",
+            "something.)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(And the more time I took to stop and think about",
+            "my surroundings, the more I felt like I was going",
+            "to throw up.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(All my hairs were standing on end and a chill to",
+            "end all chills ran through my spine, like a thousand",
+            "icicles had been jammed into my back.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I was going to be caged up in this awful school",
+            "until I died. I...was going to die here. Alone.)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sigh*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 179,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Why the hell did I agree to come to this place,",
+            "anyway?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 180,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And why wasn't I smart enough to ask Mr. Kibiki how",
+            "to get back before running off?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Seriously, how much of a dumbass does that make",
+            "me?!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I picked up my camera once more.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wonder who took the tape out of this thing when",
+            "I threw it down and started running. Glad somebody",
+            "did, at least."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 182,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Cleared up some space for me to watch these old",
+            "movies I had in my shirt pocket. I knew they'd",
+            "be good luck to have along!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 183,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I pressed the button and began waxing nostalgic",
+            "over my former abuses once more.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Naho, stop! If you hit Taguchi with that, you'll",
+            "kill him!'",
+            ""
+          ]
+        },
+        "Name": "Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Mr. Kibiki! Thank you!'",
+            " ",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 184,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Well, then tell him not to use my sticker tags",
+            "without permission! I got those from Sayaka and",
+            "Aiko, and nobody gets to use them but ME!'"
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'I'm sorry! I'm so sorry! Look at me; I'm on my",
+            "knees here, begging for your forgiveness!'",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 185,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 186,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(When you commit an event to video, you're able to",
+            "relive it at will through rose-colored lenses. It",
+            "can turn anything into a fond memory.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Video just holds so much more power than still",
+            "photography...)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...But I'm not gonna get anywhere if I just stand",
+            "here and reminisce all day, am I?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 187,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Memories are just fuel to help drive us forward.",
+            "And I've gotta keep moving, for as long as I can.",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 188,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I need to get the hell out of here so I can forge",
+            "new memories with Mr. Kibiki and Naho. So I can go",
+            "back to the way things were before Heavenly Host..."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 189,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Where did you go?! Come on! Don't leave me all by",
+            "myself!",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 190,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's a person. A girl!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 191,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Seiko... I'm scared! Where are you?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant* *huff* *puff*",
+            "...I'm sorry, okay? I... I won't say anything",
+            "mean anymore...okay?"
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 105,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Are you in here?",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A person! Haha! That is one-hundred percent a",
+            "living human being! I finally found someone else",
+            "alive in this godforsaken place!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 192,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(?!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "SSSSEEEEEEEEEEEEEEEEEEEEEEE",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "EEEEEEEEEEEIIIIIIIIIIIIIIII",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "IIIIIIIIIIIIIIIIIIIIIIIIIII",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "IIIIIIIIIKKKKKKOOOOOOOOOOOO",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "OOOOOO*****%&#%##'''!!!!!!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GEH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 193,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(That's sure not a human voice anymore...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(It's almost like her jaw's completely detached",
+            "from her body. I've never seen a person's mouth",
+            "open that wide before.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Like a nutcracker or something!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(And that voice is like it was pulled up from the",
+            "depths of hell. I can't imagine it isn't straining",
+            "her vocal chords to the breaking point.)"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(It's more of a sound than a voice, really. High-",
+            "pitched and oscillating...almost mechanical...)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?! A-Aaah...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 194,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What... Whaaat the hell did I just see?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 195,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No, no, no, I can't take this right now.",
+            "I just want to go home!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 196,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ulgh. This used to be a bathroom or something?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Oh, hey, it's a ladder. Seems to lead upstairs",
+            "somewhere. Maybe I really am smelling a bathroom",
+            "after all."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But what's a ladder to a bathroom doing hidden",
+            "behind the janitor's room? Was the custodian here",
+            "a voyeur or something?! That's pretty skeezy..."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I focused my gaze up to the top of the ladder.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whoa...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There, hanging onto one of the top rungs with one",
+            "arm, was a large man, his other arm clasped tightly",
+            "around the girl I'd seen before."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ooooolllgh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He stopped moving and seemed to be listening",
+            "intently. I...was pretty sure he'd heard me.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaah... Crap...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gaaaaaaaahhh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(It's a monster!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant*",
+            "What in the name of all that's holy IS that",
+            "monstrosity?!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "    -  -",
+            "                    [Day duty: Shinonome／Kanno]",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eeeeek!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The building entrance is frozen in place like",
+            "a model. It's not moving the slightest bit.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I-Is this the door? I dunno about this...",
+            "It looks pretty solid to me!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Charge into it",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Geh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eeeeek!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The building entrance is frozen in place like",
+            "a model. It's not moving the slightest bit.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I-Is this the door? I dunno about this...",
+            "It looks pretty solid to me!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Charge into it",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Geh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eeeeek!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The building entrance is frozen in place like",
+            "a model. It's not moving the slightest bit.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I-Is this the door? I dunno about this...",
+            "It looks pretty solid to me!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 204,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Charge into it",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Geh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 205,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The building entrance is frozen in place like",
+            "a model. It's not moving the slightest bit.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I-Is this the door? I dunno about this...",
+            "It looks pretty solid to me!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 202,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Charge into it",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whoa!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 203,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Keep on recording and recording",
+            "After you die your face will warp and crumble",
+            "and be torn apart    on camera"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The door leading inside is a malicious illusion.",
+            "Take heart and you can charge right through it.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No... NOOOOO!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 206,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gihh it baack!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gohhya!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh! GHHAAH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eye!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! GhhhaaaaaaAAAAAAAAAAGGGGHHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Graaaaaaaaaahhhhhhh...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "HEEEEEELP MEEEEEE...!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Uuuullllllgggghhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*splut*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Doehhn't fit...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh..hhhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 200,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eeeeek!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 201,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Heavenly Host Elementary -",
+            "Notice to All Faculty and Students]",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Outside the window, so dimly lit as to be almost",
+            "imperceptible, looms a sheer wall of dense foliage",
+            "stretching as far as the eye can see."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Outside the window, so dimly lit as to be almost",
+            "imperceptible, looms a sheer wall of dense foliage",
+            "stretching as far as the eye can see."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Rows of dead bugs are neatly arranged on each shelf.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The shelves are filled to overflowing with long,",
+            "black hairs.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "1973-09-18",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gihh it back... Gihh it baaack!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gaaaahh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh... Dammit! Why do I keep doing that?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Huh?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What? No!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You gotta be kidding me! It's busted?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No, no, no, please, no... If I can't use my camera,",
+            "then what reason do I even have to be here?!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Goddammit!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sob* *wail*",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naomi... *wail*",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...That jerk...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 86,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Another girl. Same uniform as the other one,",
+            "from the looks of it...)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(She could be possessed too, though. I'd better",
+            "keep myself hidden and follow her from a distance.)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant*",
+            "  *huff* *puff*",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Where the heck did she go...?",
+            "  *pant* *pant*",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Aha! There she is!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Come on, you stupid thing... Work!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(...Nothin' doin'. Damn.)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Hmm?)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(What's going on? Something's definitely not",
+            "right here...)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 223,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I hear you...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 87,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naomi...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Gotta keep on her tail.)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(The heck is that room?)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, it's labeled. Well, that's handy!",
+            "'Custodian's Closet' -- so, the janitor's",
+            "office, then."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 224,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I took a peek inside, but there was no trace of",
+            "any living being. Emphasis on 'living.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "W-Well, might as well hop in for a second...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 225,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'I told everyone...that I'd go with them...'",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'So why...have I been left behind...?'",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'...It hurts... It hurts so much...'",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Rrrg...ggghh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Open up, dammit! OPEN UP!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GLGH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Rrrg...ggghh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Nuh-uh. I ain't goin' back in there!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The door seems affixed to the wall like a model.",
+            "It can't be opened.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GLGH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Rrrg...ggghh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I don't want to let that girl out of my sights",
+            "for too long. Let's see what she's up to.)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Basement]",
+            "The door is nailed shut. It definitely won't be",
+            "opening anytime soon."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Do not enter under any circumstances.",
+            "                    -Principal Takamine Yanagihori",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Back at the school entrance, huh? Maybe the doors",
+            "will finally let me out. I mean, they've gotta open",
+            "sometime, right?"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Back at the school entrance, huh? Maybe the doors",
+            "will finally let me out. I mean, they've gotta open",
+            "sometime, right?"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Damn. Not today. How'd I know?",
+            "Stupid thing is solid as a brick wall.",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 198,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Guess that would've been too easy.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 199,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Back at the school entrance, huh? Maybe the doors",
+            "will finally let me out. I mean, they've gotta open",
+            "sometime, right?"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 197,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "SSSSEEEEEEEEIIIIIIIIIKKKKKKKOOOOOO...",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaaaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Infirmary]",
+            "The door is locked.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ulgh, what an awful stench!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Science Lab]",
+            "The door seems almost like a model, as if sculpted",
+            "onto the wall. There's no way of opening it."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No outsiders allowed.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Please vacate these premises immediately.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Set down your camera.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No outsiders allowed.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Please vacate these premises immediately.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Set down your camera.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There are hunks of some sort of unidentifiable meat",
+            "scattered about.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I really hope this didn't used to be a person...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a large gap in the floor here.",
+            "Crossing over would be far too risky.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Many devils lurk in the stairwell.",
+            "Keep alert and watch your step at all times.",
+            "The floors here are not to be trusted."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ugh, what's going on? It's really cold here!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Oh, G-G-God! BRR!! This is ridiculous!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I-I-I'm gonna f-f-freeze to death!",
+            "I've g-g-gotta go b-back!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*wheeze* *gasp* Nnnng...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Th-This is enough, now! Somebody, s-save me!",
+            "Please!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Nnnngh...ghhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I kept trying to pick myself up off the ground...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...but all my energy was spent. Every time I almost",
+            "made it, I'd just tumble right over again.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mr. Kibiki... I'm done for.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Just gonna...lie down...and wait till it's all",
+            "over...",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Coward.",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Taguchi.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "N-Naho...? What in the... How are you here?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A sudden feeling of relief washed over me, for the",
+            "first time since I'd come here.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mr. Kibiki and I came to this place without you.",
+            "We specifically left you behind and came here in",
+            "secret so as not to involve you!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...And then you two got separated, right?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Y-Yeah, we did.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This realm is unstable and very, very dangerous.",
+            "I warned you both. Very clearly.",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Two people can exist in the same space but in diff-",
+            "erent dimensions, and never see each other again.",
+            "And it's very easy to slip from one to the next."
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Which is exactly what you did. You're no longer",
+            "in the same world as Mr. Kibiki. You've become lost",
+            "in another Heavenly Host."
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And this realm is very old. Much older than the one",
+            "you entered through. It may have even been here for",
+            "hundreds of years already, in one form or another."
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...For real?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Quick to accept things as ever, I see. It's your one",
+            "good point. Exactly the good point you'd hope for",
+            "from a gossip writer."
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, it sure is good to see you, Naho!",
+            "Did you follow me here?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 81,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We should track down Mr. Kibiki and get the",
+            "hell out of here together!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho's expression turned stolid. She just stood",
+            "there, staring at me blankly.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm already dead.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...What?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No... No, you can't be!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I looked her up and down several times,",
+            "incredulously, as if trying to find some",
+            "physical means of verifying her claim."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And, indeed, her body was faintly glowing like",
+            "a hologram, its edges blurring into the background.",
+            "That probably should've been a tip-off."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And I've searched high and low for Mr. Kibiki, all",
+            "throughout this school. He's nowhere to be found.",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Even with all your spiritual talents...you still",
+            "couldn't find him?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "My talents died with me. At least partially.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "God... No... No, this is too cruel! Why did things",
+            "have to wind up like this?!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I looked down at my feet as I said this, deflated.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "After becoming a spirit, I realized I could sense",
+            "life energies. And I'm not sensing Mr. Kibiki's at",
+            "all. I'm fairly certain...he's passed on as well."
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll try to find some means of escape, though.",
+            "Even if you're the only one who can use it.",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Then you can go back with all the footage you've",
+            "recorded.",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Taguchi!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Mr. Kibiki's gone...and so are you...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What point is there in me returning to a world",
+            "without you two in it?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's nothing left for me! I don't even care",
+            "what happens anymore. I've lost the only things",
+            "that matter. I might as well die myself!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Just let me rest in peace.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I was basically in a fetal position at this point.",
+            "I didn't care anymore.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I just crossed my arms and stared at Naho.",
+            "She was here, but...she wasn't. She was dead.",
+            "And...glowering at me..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...which is right around when the floorboards",
+            "around me suddenly split apart.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "At the sound of wood cracking and splintering,",
+            "I leaped to my feet.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This is what I meant when I said you were a coward,",
+            "you dumbass!",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! N-Naho--",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You came here to help out Mr. Kibiki, same as me,",
+            "right?!",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, now he's dead! So he's returning the favor,",
+            "trying to help YOU! How have you not noticed?!",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "She pointed to the wall nearby.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The wall where bloody letters had previously",
+            "appeared out of thin air.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come to think of it, there have been a few times",
+            "now where messages have appeared like that and",
+            "saved my butt."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And you never put two and two together? You've seen",
+            "his handwriting countless times before! It's clearly",
+            "him!"
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho was practically shouting at this point, tears",
+            "streaming down her ghostly face.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And she was right.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I had seen this handwriting before, practically",
+            "every day of my working life. Those sophisticated",
+            "strokes and distinctive curves were unmistakable."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "They were a living monument to the pen of a great",
+            "writer...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...writing his final words for my sake, and using",
+            "whatever 'ink' he had at his disposal to do it. It",
+            "was moving... It was uplifting... And it was sad..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If you give up on living now...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...then all of Kibiki's efforts will be in vain!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Suddenly, the busted camera on the floor",
+            "switched on.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This is something I can't do, now that I'm dead.",
+            "It's all up to you, Taguchi! You need to survive!",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho had flipped her glasses up and was wiping the",
+            "tears from her eyes with the sleeve of her school",
+            "uniform as she made her appeal."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heh... I mean, he even fixed my camera. So clearly,",
+            "you're right.",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So I guess my mission now is...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I pointed the now fully operational camera directly",
+            "at Naho.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...to get the scoop of the century!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naho",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Naho's expression, as now captured on film, was",
+            "unusually soft and...dare I say, vulnerable?",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I am Shougo Taguchi, cameraman for the great",
+            "Kou Kibiki.",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I may have been separated from my boss, but",
+            "I promised him I'd keep on recording, no matter",
+            "what. And I intend to keep that promise."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll keep taping till the bitter end!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And these tapes will be the proof of my",
+            "accomplishments...the culmination of my",
+            "life's work."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! What the...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(That's definitely the same voice I heard before.",
+            "It's that girl who was walking around crying!)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I've gotta catch up with her!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant* *pant*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'll continue recording for as long as possible.",
+            "That way, even if I don't make it, I can be a part",
+            "of the future for whoever stumbles in here next..."
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 34,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The stairs beyond this point are piled with rubble.",
+            "There's no way through.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Infirmary]",
+            "Some unknown, ethereal force has completely sealed",
+            "the room. All attempts to enter are being blocked."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Check it out",
+            "Get away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "(No, I've come too far to turn back now.",
+            "Let's do this.)",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The back of the closet opened into a damp, dark",
+            "grotto. It felt like I was stepping into a natural",
+            "cave or something."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The hell is something like this doing behind",
+            "the janitor's office? ...And what's that smell?!",
+            "God, it's terrible!"
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Seiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I hope...Naomi's okay...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Seiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 20,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's an old-fashioned space heater.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Something sticky seems to have melted all over its",
+            "surface. There are stains everywhere.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Every day up through November 18th, 1975 is crossed",
+            "off with a big X.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Inside the cabinet, there's a notebook labeled",
+            "'Night Guard Logbook.' Unfortunately, the cabinet",
+            "is locked."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's an old, beat-up kettle.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Now where did that girl disappear to? She had to",
+            "have hidden in the closet...",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Ghh, can't open it!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There are old, moldy tea leaves floating in the",
+            "stagnant water.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Science Lab]",
+            "The door is locked.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The boy's eyes are hollow cavities",
+            "that lead into oblivion.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Stay strong and avoid the temptation",
+            "to look directly at him.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gooooot'hya...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Geh?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 227,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(No... I can't move! What's going on?!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I wohh lehh you go!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ngah...haah!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I whant...your tongh...anh guts...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! GhhhaaaaaaAAAAAAAAAAGGGGHHH!!",
+            "*sputter*",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "They're mine!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ooolgghh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hee hee hee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hee hee hee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Nobody alive in here. So where'd that girl go?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 231,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "She hiding in the closet, maybe?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Looks empty to me...",
+            "...Er, wait. Are those air currents?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Go inside",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The wall in the back...isn't solid...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "With the slightest push, the plywood along the back",
+            "wall of the closet fell away to reveal a secret",
+            "passageway."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whoa!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Looks empty to me...",
+            "...Er, wait. Are those air currents?",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Go inside",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The wall in the back...isn't solid...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "With the slightest push, the plywood along the back",
+            "wall of the closet fell away to reveal a secret",
+            "passageway."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whoa!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Geeh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 226,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If only I had something I could use to cross this...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If only I had something I could use to cross this...",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}
