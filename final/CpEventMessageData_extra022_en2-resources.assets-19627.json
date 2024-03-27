@@ -1,0 +1,5507 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra022_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "I-Is this the door? I dunno about this...",
+            "It looks pretty solid to me!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Charge into it",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Geh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I-Is this the door? I dunno about this...",
+            "It looks pretty solid to me!",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Charge into it",
+            "Back away",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ła!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Keep on recording and recording",
+            "After you die your face will warp and crumble",
+            "and be torn apart    on camera"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The door leading inside is a malicious illusion.",
+            "Take heart and you can charge right through it.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No... NOOOOO!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gihh it baack!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gohhya!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh! GHHAAH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eye!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! GhhhaaaaaaAAAAAAAAAAGGGGHHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Graaaaaaaaaahhhhhhh...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "HEEEEEELP MEEEEEE...!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Uuuullllllgggghhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...*splut*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Doehhn't fit...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh..hhhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GEEEAAAHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It seems almost like someone on the other side is",
+            "holding the door shut. No matter what, it just",
+            "won't open."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a door behind the cabinet, but it seems to",
+            "exist purely for show, as it's affixed to the wall",
+            "like a model. There's no way to open it."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's nothing particularly useful in here.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "From the windows, only a deep, immutable darkness",
+            "can be seen.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "From the windows, only a deep, immutable darkness",
+            "can be seen.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "From the windows, only a deep, immutable darkness",
+            "can be seen.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "From the windows, only a deep, immutable darkness",
+            "can be seen.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "From the windows, only a deep, immutable darkness",
+            "can be seen.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The hell's with these kids?! They won't get out of",
+            "our way!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 80,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I don't think we can get out this way as long as",
+            "they're around.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 36,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Maybe we can...I dunno, lure them away with",
+            "something?",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You got anything on you that little kids might be",
+            "into? Anything at all?",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This seemed to trigger an 'aha' moment for Ohkawa,",
+            "who began digging around inside his pocket with",
+            "purpose."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "H-How about this?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 37,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A...bunny rabbit?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 82,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's not a bunny rabbit! It's a rubber strap of",
+            "Sanctum from the 'Mach Girl Panzer' series!",
+            "How can you possibly not know that?!"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 38,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Why WOULD I know that?! That show's for kids,",
+            "isn't it?",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 83,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Everyone knows the best entertainment is just as",
+            "enjoyable for adults as it is for children! Plus,",
+            "the little guy's awfully cute, don't you think?"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 39,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Place Sanctum as a lure?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "...All right, let's see what happens...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 40,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The blue spirits began to gather around the rubber",
+            "strap.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, what do you know? They may be dead, but",
+            "they're still kids where it counts.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 84,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki & Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A-AAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki & Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I don't think that's gonna do the trick. I work",
+            "at a convenience store, and I've never seen any",
+            "merchandise from this show in the kids' corner."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 88,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If I'm not mistaken, this kinda stuff is always",
+            "up front as part of the lottery drawings, where",
+            "it's mostly purchased by older men."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 89,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, that's where I got all my Panzer stuff from.",
+            "The Sanctum hair ornament is pretty much the",
+            "consolation prize of the batch."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So it's junk, then, even to little kids, and you're",
+            "just trying to unload it here!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 90,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ack!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Almost as if in reaction to my statement, the",
+            "handheld gaming system flew from Ohkawa's pocket.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Crap! Hope it's okay...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 45,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Dude, if that thing is so valuable to you, you need",
+            "to be way more careful with it. You can't just",
+            "pocket it loose like that!"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 91,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I didn't! It was deep in there! The thing just came",
+            "out on its own, like it wanted to be on the ground!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The blue spirits immediately began to draw near the",
+            "game system, obviously intrigued.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wow. Guess we found our lure.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 92,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Dammit! Spoke too soon...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 93,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Woooow... Look at that!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...co jest...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The system began to play of its own accord, show-",
+            "casing some high-end decision-making far beyond the",
+            "scope of mere casuals. The children were intrigued."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heeheehee! This looks like fun!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "More! Show us more!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Somebody's totally playing it. Ryosuke? Ryosuke,",
+            "is that you?!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If it is, we owe him one. Come on! Let's take this",
+            "opportunity and get the hell out of here!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 94,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "B-But...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Look, I know it's important to you and I understand,",
+            "but...Ryosuke is protecting us. He's giving us",
+            "what we need most right now: cover."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 85,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We have to make sure his efforts aren't wasted,",
+            "right?",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Phew. Your friend really saved our asses.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 96,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...*sniffle*... Ry-Ryo...suke... Ryosuke...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come on. Don't cry.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 97,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But... But...! *sob*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Think of it this way: now you know for sure",
+            "that Ryosuke was by your side that whole time.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 98,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And even though you left your game system behind,",
+            "I'm sure he'll continue to protect you from the",
+            "shadows in other ways."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 99,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Because he's clearly...a really good friend...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 100,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah... Yeah, you're right!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Good. So we have to survive in here, okay?",
+            "One way or another. For his sake.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 101,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Okay!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Crap, they're back. We gotta run! Come on!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 102,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee... Heeheehee...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "How much longer     can you run",
+            "How much longer     can you stay together",
+            "How much longer     can you outwit death"
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Kishinuma, I think we should split up.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What? Why?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 105,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If we just keep running together like this, they're",
+            "going to catch us sooner or later. We'll make one",
+            "tiny mistake, and that'll be the end of us!"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Happens all the time in games. But I'm fast! I'll",
+            "be able to outrun them for sure. I just want you to",
+            "promise me that you'll keep on going too, okay?"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Of course! Man, you sure did bounce back quick.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 106,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Haha. It's all thanks to you, buddy.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Don't get all sentimental on me, now. Get outta",
+            "here, before they catch up to us!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 107,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Okay. See you again real soon!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Damn. Already gone. He wasn't kidding -- he is",
+            "fast!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 108,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gah! You again?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 109,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! D-Damn...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 110,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And just where were you?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! O-Ooooooooaaaahhhh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "When I call, you have to come right away.",
+            "Understand?",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "O-Oooaaagh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Don't you talk back to me! I don't want to hear",
+            "any excuses from a blockhead like you. You want me",
+            "to rip out that tongue of yours?!"
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaagh! Oooahh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*giggle* *gigglegiggle*",
+            "That's a good boy. Now, follow me.",
+            ""
+          ]
+        },
+        "Name": "Sachiko",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "O-Oaah... Ghh.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ghh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 111,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oooooonng... Wh-Where...am I...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 112,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Aaoohh, God, my head...is pounding...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And...fuck, I'm bleeding.",
+            "Dammit! What even happened?!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 113,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I remember I was trapped in some dimly lit room...",
+            "with a hammer-wielding maniac about to kill me...",
+            "and then..."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 114,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...and...then...gah, I don't know! I can't remember",
+            "a damned thing!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 114,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Though I feel like there was...someone else with",
+            "me. I think he...might've saved me.)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 115,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! Goddamn, my head hurts. How long was I out for,",
+            "anyway? I need to find Shinozaki on the double!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wait for me, Shinozaki! I'm coming!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Don't think we'll be able to break through too",
+            "easily. We'll need to find another way around.)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 103,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Those kid spirits will be hanging around here for",
+            "a while yet, most likely. Probably best to keep away",
+            "from here for the time being.)"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 104,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*gasp* *wheeze*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "O-Oaaaaggh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 120,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Haaaa... Haaaaaah...!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The mysterious blackened zombie-like figure was",
+            "staring down at me, hammer raised above his head,",
+            "poised to strike me down at any moment."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "His eyes were hollow and his cheeks were stained",
+            "with bloody tear tracks, adding exponentially to",
+            "his already menacing appearance."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Crap. There's no way I'm going to survive this...)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I tried desperately to move my legs, but they just",
+            "wouldn't respond. It was as if the nerves had been",
+            "cut. I wasn't going anywhere."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I didn't know if it was because of the strike I'd",
+            "taken, or because I knew I was going to die...",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...but I couldn't stop my legs from shaking or my",
+            "teeth from chattering, no matter what I did. It's",
+            "like I'd lost all control over my body."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(...! D-Dammit, move! Move! MOVE!!)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "O-Oaaa-aaaaaaagh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 121,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Phhhhhhhhaah...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 122,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(The hell? This guy get off on people's fear or",
+            "something?!)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "God...dammit... Stop messing with me!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oaagh? A-Aaahh...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 123,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! Fuck's wrong with you? You gonna torture me",
+            "before you kill me?! Show off, like a big man?!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oaaaagh...aaaagh... Aaagh?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 124,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Just...stop already! God!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(The hell is he doing?! I didn't live through all",
+            "the crap I've been through just to die in fear in",
+            "some dungeon!)"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "GOD...DAMMIT...LEGS...JUST...MOOOOOVE!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oooaah...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 125,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "MOVE! MOVE, MOVE, MOVEMOVEMOVE!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Suddenly, the muscles that had frozen up on me",
+            "sprang to life in one glorious explosion of",
+            "movement. And in that moment..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ooah...goooaaahh?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshikazu",
+        "NameFlag": 1,
+        "VoiceNo_low": 126,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Ghaah!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant* *pant*",
+            "(Well, I guess this means I live to see another",
+            "day, at least...)"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Get up!",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 228,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wh-Who...are you?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Never mind that. We have to get out of here!",
+            "Can you stand?",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 229,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Y-Yeah... Surprisingly, I can!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 24,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, then let's go, before he comes back.",
+            "Follow me! And try not to make too much noise.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 230,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Got it.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(I had no idea where this kid was taking me. It was",
+            "all a blur of narrow passageways, and I was just",
+            "blindly following them to...safety, I guess?)"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(We just kept on running, through one dimly lit",
+            "corridor after another. There was no real sense of",
+            "direction, nor even of the distance we'd covered.)"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*pant* *pant*",
+            "  *pant* *pant*",
+            ""
+          ]
+        },
+        "Name": "Yoshiki & Boy",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We'll hide in that classroom!",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 232,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Okej!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...I think...we went far enough...to lose him.",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 233,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Man. I really thought I was gonna die back there.",
+            "Don't know who you are, but you saved my life.",
+            "Thanks a bunch."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh... No, think nothing of it. It's just good",
+            "fortune that I got there when I did.",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 234,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I heard something crash outside, and that did",
+            "a great job of distracting that...creature?",
+            "...Was that your doing?"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mhm.",
+            "",
+            ""
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 235,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Haha. Well, that's why I'm standing here now, safe",
+            "and sound. The name's Kishinuma. I'm an eleventh-",
+            "grader at a school called Kisaragi Academy."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "O-Oh. I'm Tomohiro Ohkawa. I'm an eleventh-grader",
+            "too, at Byakudan Senior High School. It's nice to",
+            "meet you, Kishinuma."
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 236,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Likewise.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 237,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm? Are you...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh? A-Am I what?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 238,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Why are you avoiding looking at me?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh... Uh... Sorry. It's just that...well...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 239,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's okay. Just say it.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 34,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...All right. There's a classmate of mine named",
+            "Shimada, and you...kind of have the same vibe",
+            "as him."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I do?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah. But I...I don't want you to get the wrong",
+            "idea or anything! It's just kind of a conditioned",
+            "reflex for me to avoid his gaze. A habit, I guess."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I don't really understand. But, I mean, you just",
+            "saved my life! You're pretty much the cock of the",
+            "walk right now. So show some confidence!"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 36,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Haha. Sorry.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Come on, seriously? All you've done since you",
+            "started talking is apologize!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 37,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh. Heh. Yeah, I guess I have. I'll have to...",
+            "work on that. So, Kishinuma, do you have any idea",
+            "why you were captured by that man?"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "None whatsoever. I was struck from behind, and when",
+            "I came to, I was in that room.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 38,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It was a hell of a strike, too. I mean...yeah,",
+            "dammit, my head is really swollen where he hit.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 39,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's somebody I want to protect in here, too,",
+            "so if I'd met my end like that, I'd've been pissed.",
+            "I'd definitely be haunting this place by now."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 40,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Kishinuma...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gotta say, though, I'm surprised to find someone",
+            "else I can talk to in here other than the people",
+            "I came with. Like, another human being."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 41,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Y-Yeah, me t-- Aagh!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Something wrong with your arm?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 42,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, I kind of...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heeeeey! Sooooomebooooody! Aaaaanybooooody!",
+            "Hellooooooo? Aaaaaanybooooody theeeeere?!",
+            "If you're there, please aaaaansweeeeer! Heeeey!"
+          ]
+        },
+        "Name": "*",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! Was that Kensuke?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What's going on?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 44,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That voice! It was Kensuke's!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Kensuke?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 45,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, from my school. He's a friend who was brought",
+            "here with me. Upstairs!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heeeeeeey! Aaaaaaaanbooooody?!",
+            "Saaaay soooomethiiiing!",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Kensuke? Are you here?! Answer me, Kensuke!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heeeeeeeey!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Where is that coming from? It's so loud and clear,",
+            "but there's nobody in sight...",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 46,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Kensuke... KENSUKE!!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Okay, you need to calm down. If you're too loud,",
+            "that...thing is going to find us.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 47,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But I've been looking all over for him.",
+            "Kensuke! KEEEENSUKEEEE!!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mitsuki! Fukuroi! Kizamiiii! Where did you all go?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This is ridiculous. Why can't he hear me?!",
+            "Kensuke! I'm right here, Kensuke!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But it seemed pretty clear that this Kensuke person",
+            "couldn't hear him at all. Kensuke's cries gradually",
+            "receded into the distance."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Why? I'm right here... Ghh... Why are you leaving?!",
+            "Stooooop!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 48,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Is it because I...*sniffle*...because I ran off",
+            "without you? Is that why?!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh? Wait, what happened?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 49,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This is punishment. For deserting my friends.",
+            "For running away and leaving them behind.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ohkawa...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I just...bolted. All by myself. With no regard for",
+            "my friends at all!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 1,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ryosuke, Urabe, Kirisaki... I just left them all",
+            "to die! A-AaaaaaaaaaaAAAAAAAAAAAAHHH!!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 2,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ohkawa?! C-Calm down, Ohkawa! Seriously! Hey!",
+            "...Dammit all...",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "AAAAAAAAAGGGGGGHHHHH!! Khh... Ngggghhh...",
+            "ghhmmph!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 3,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Not sure what else to do, I put my hand over his",
+            "mouth to muffle him.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Dumbass! If you're that loud in a place this",
+            "exposed, that thing's gonna find us for sure!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...! Ghh... S-Sorr--",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 4,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's fine. Are...you all right?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I think so.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 5,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I just...promised I'd be there for him.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 6,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The two of us were always together, me and Ryosuke.",
+            "At school, in our free time...always. I'm so sorry,",
+            "Ryosuke. I'm so sorry..."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 7,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Always together, huh?)",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 54,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "It's the same for all of us in here, I think.",
+            "I mean, I've been separated from the person I'm",
+            "most concerned about, too."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 55,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "You have?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 8,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah. Every second I'm here is another second",
+            "I feel like crap for having left her behind.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 56,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But it won't do anyone any good to just keep dwell-",
+            "ing on the past. You gotta think about what needs to",
+            "be done from here on out."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 57,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A distinctly electronic sound was suddenly audible",
+            "from...somewhere.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 9,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The heck was that?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 58,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Wait... Was that me?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 10,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He proceeded to pull a handheld gaming system from",
+            "his pocket, which had clearly been powered on,",
+            "its LCD fully lit."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I know I turned this off. Why is it...?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 11,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The title screen of a rather pastel-looking game",
+            "was proudly displayed on the device.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "'Love Miracle: Palpitation Revolution Plus'?",
+            "The heck is that?!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 59,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Oh, come on, you really don't know about it? It's",
+            "the biggest dating sim in the world right now. There",
+            "are even commercials for it! You haven't seen them?"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 12,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Nope. Been so busy with work, I don't get the chance",
+            "to watch a lot of TV anymore.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 60,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "No way... You can't be serious!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 13,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I don't give a crap, anyway. Just shut the thing",
+            "off. This is no time to be playing games.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 61,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, yeah, it's not, but still!",
+            "...Geeh! What's going on?! It's playing itself!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 14,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hę?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 62,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "How is this...even possible? ...I guess we are in",
+            "a place where ghosts are the norm, so it's not like",
+            "it's that shocking, but...it's still weird!"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 15,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A game system that plays itself, huh?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 63,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Shinozaki would probably have a lot to say about",
+            "that. Spiritual manipulation, I think she called it.",
+            "Or, wait... She used a word that started with a P..."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 64,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Poltergeist?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 16,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, that's it!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 65,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "And that's exactly what it seemed to be, as the game",
+            "really was playing itself. The cursor was moving on",
+            "its own, picking choices and progressing the story."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "This is Ms. Takanami's EX scenario, which Ryosuke",
+            "was really psyched to play through.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 17,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Though he'll...never have the chance now.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 18,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wait, don't tell me this Ryosuke guy...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 66,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...yeah. He's no longer...with us.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 19,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Damn...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 67,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "His leg got cut clean off...and he was just gushing",
+            "blood. And turning colder and colder by the second.",
+            "He was so obviously dead..."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 20,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But I couldn't bring myself to accept it. I didn't",
+            "WANT to accept it! And that's why Yuuya did what",
+            "he did. I finally get it."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 21,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yuuya?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He was a friend of ours. But I called him a...",
+            "murderer. Before I ran off.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 22,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He kicked Ryosuke down the stairs. But only after",
+            "Ryosuke had already gone cold. Only after he'd...",
+            "already..."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 23,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The hell'd he do that for? That's awful!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 68,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yeah, it is. And I wasn't about to look past it.",
+            "How could I possibly let him get away with that?",
+            "I mean, even if Ryosuke was already dead, still..."
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...I wanted to live out my life with you, man.",
+            "I wanted us to play so many more games together.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 116,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm so sorry...I couldn't save you...",
+            "...Ryosuke... I'm so sorry...",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 117,
+        "VoiceNo_high": 36,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "(Guess he's kinda lost it a little. Can't say",
+            "I blame him, though.)",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 69,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Huh? It's gone back to the title screen.",
+            "That's odd.",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 25,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hey, Ohkawa? Have you considered that maybe, even",
+            "though you can't see him, Ryosuke is still right by",
+            "your side?"
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 70,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh? You think?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 26,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I dunno, it's just a hunch, and it's probably little",
+            "consolation, but...maybe he's controlling that game",
+            "system. Maybe he's trying to tell you something."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 71,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ryosuke...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 27,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Which would mean as long as you've got that thing",
+            "with you, you'll be able to play together anytime.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 72,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ". . .",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Kishinuma!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 28,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ack! The hell's your problem, grabbing someone",
+            "like that?!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 73,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm hugging you, Kishinuma! I don't care if you're",
+            "just placating me or what... Thank you. It makes me",
+            "really happy to think that Ryosuke's still with me!"
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 29,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "N-No problem...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 74,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'm so glad I met you, Kishinuma!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 30,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A-All right, already! Just get off of me!",
+            "You're snotting me up something fierce!",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 75,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*sniffle* I don't want to see anybody else die.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 31,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We should make sure we get out of here alive,",
+            "Kishinuma! Promise me we will!",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 32,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Well, I mean, that's certainly the plan! I want",
+            "to get the hell out of this awful place as soon",
+            "as humanly possible."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 76,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's why we gotta keep trying to find other",
+            "people in here. Other LIVING people. So we can",
+            "all get the hell out together."
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 77,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That sounds perfect!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 33,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "?!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki & Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fhooooound hyooooo...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Child Spirit",
+        "NameFlag": 1,
+        "VoiceNo_low": 43,
+        "VoiceNo_high": 32,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Dammit, we gotta get moving!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 79,
+        "VoiceNo_high": 31,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "C-Come on!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 35,
+        "VoiceNo_high": 33,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

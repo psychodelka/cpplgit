@@ -1,0 +1,700 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra006_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "Shinozaki! Haven't seen you in two days. You",
+            "feeling any better?",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 206,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Yep, fit as a fiddle. Had a doctor's appointment",
+            "this morning, and it seems all is good!",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 240,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Excellent. Glad to hear it.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 207,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Me too, 'cause I've been dying to continue our",
+            "conversation from the other day. So come on, tell",
+            "me: Is it really true you don't have a boyfriend?"
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 241,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heehee. It is. I live a sad, lonely life.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 208,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmmm?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 242,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Though I did go out with a charming young lad",
+            "when I was in high school...",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 209,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I knew it! Heh... Give me all the juicy details!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 243,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "I'd meet up with him in the third-floor walkway",
+            "every day, wearing a uniform just like yours. Ahh,",
+            "memories... I was so young back then! *giggle*"
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 210,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's a good spot. It's quiet, and you can see",
+            "the whole town from there. Seems nice and romantic.",
+            "So...what kind of person was he?"
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 244,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmmm, let's see... Well, for starters, he was really",
+            "kind. Though he had a rather brusque way of speaking",
+            "that did him no favors in coming across that way!"
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 211,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "But I guess where it counted, even his harsh words",
+            "had a certain element of kindness to them.",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 212,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Sometimes, I felt like I was the only person who",
+            "truly understood him... Heh, listen to me boast!",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 213,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "That's so sweet...",
+            "So? How far did you get with him?",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 245,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Weeeell... Sorry, I never kiss and tell.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 214,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Though just between you and me...we never actually",
+            "kissed!",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 215,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whaaaaaat?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 246,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "We got super-nervous just holding each other's",
+            "hands!",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 216,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*giggle* I'm the same way.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 247,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Mmm-hmm. Though I guess...when we were holding",
+            "hands, I felt like our hearts were connected.",
+            "And that's all I needed. I was satisfied."
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 217,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Awwwwww...so cute!",
+            "*sigh*",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 248,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Probably pretty lame by today's standards, though!",
+            "Heheh...",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 218,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Not at all. I think it's wonderful.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 249,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heya, Ms. Yui. I brought the day duty roster.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 50,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ah, Kishinuma...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 219,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Grrrr...and we were just getting to the good part...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 250,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Hmm? Oh, hey Shinozaki. What are you doin' here?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 51,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "What does it look like? I'm talking to Ms. Yui!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 251,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "So you are. Seems like you two are having a blast,",
+            "at that.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 52,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Just get out of here! This is between us girls!",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 252,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Whatever you say!",
+            "I'll leave the roster right here, if that's cool.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 53,
+        "VoiceNo_high": 26,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thanks!",
+            "...Say, speaking of day duty...weren't you scheduled",
+            "with Kishinuma for today?"
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 220,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Huh. Was I?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 253,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "He's such a good boy...",
+            "",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 221,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Who is, now?",
+            "",
+            ""
+          ]
+        },
+        "Name": "Ayumi",
+        "NameFlag": 1,
+        "VoiceNo_low": 254,
+        "VoiceNo_high": 4,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "*giggle*",
+            "",
+            ""
+          ]
+        },
+        "Name": "Pani Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 222,
+        "VoiceNo_high": 27,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}

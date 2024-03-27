@@ -1,0 +1,3094 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 393
+  },
+  "m_Name": "CpEventMessageData_extra100_en2",
+  "cpEventMessageData": {
+    "Array": [
+      {
+        "Message": {
+          "Array": [
+            "An eleventh-grader at Paulownia Academy High School.",
+            "Protege to Kou Kibiki, and has even taken up resi-",
+            "dence in his house (rent-free) for private reasons."
+          ]
+        },
+        "Name": "Naho Saenoki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Discovered the 'Sachiko Ever After' charm and shared",
+            "it on her blog, prompting the events that got Ayumi",
+            "and her friends mixed up with Heavenly Host."
+          ]
+        },
+        "Name": "Naho Saenoki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A struggling documentarian and novelist looking",
+            "for his big break. Writes primarily for an occult",
+            "publication of questionable relevance."
+          ]
+        },
+        "Name": "Kou Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Has been chasing any leads he can find on the serial",
+            "kidnapping and murder cases that once plagued",
+            "Heavenly Host Elementary."
+          ]
+        },
+        "Name": "Kou Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Eventually spirited himself away to Heavenly Host",
+            "by choice, where he was killed by Naho after she'd",
+            "succumbed to the darkening."
+          ]
+        },
+        "Name": "Kou Kibiki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "An eleventh-grader at Byakudan Senior High School.",
+            "Went to Heavenly Host Elementary with Yuuya Kizami",
+            "and his other classmates."
+          ]
+        },
+        "Name": "Tomohiro Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "When his friend Ryosuke Katayama's body was kicked",
+            "down the stairs by Kizami, he called Kizami a mur-",
+            "derer, setting in motion a series of dark events."
+          ]
+        },
+        "Name": "Tomohiro Ohkawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "を作る事になる。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A seventh-grader at Musashigawa Girls' Middle School",
+            "and a prominent member of its drama club. Performed",
+            "Sachiko Ever After with her fellow club members."
+          ]
+        },
+        "Name": "Chihaya Yamase",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "った。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Best friends with Nana Ogasawara. Possesses a timid,",
+            "almost cowardly personality, depending entirely on",
+            "her friends to help her through this experience."
+          ]
+        },
+        "Name": "Chihaya Yamase",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A seventh-grader at Musashigawa Girls' Middle School",
+            "and a prominent member of its drama club. Performed",
+            "Sachiko Ever After with her fellow club members."
+          ]
+        },
+        "Name": "Nari Amatoya",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "った。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A childhood friend of Nana Ogasawara's who doesn't",
+            "make any effort to hide her true feelings, unkind or",
+            "no -- though she cares very deeply for her friends."
+          ]
+        },
+        "Name": "Nari Amatoya",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "An eleventh-grader at Byakudan Senior High School.",
+            "Student council clerk. Went to Heavenly Host Ele-",
+            "mentary with Yuuya Kizami and her other classmates."
+          ]
+        },
+        "Name": "Mitsuki Yamamoto",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Due to the shock of Yoshikazu's attack and being",
+            "separated from her group, she had difficulty hang-",
+            "ing on to her sanity by the time she met Satoshi."
+          ]
+        },
+        "Name": "Mitsuki Yamamoto",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "くなっていた。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "An eleventh-grader at Byakudan Senior High School.",
+            "Was transported to Heavenly Host Elementary with",
+            "Tomohiro Ohkawa, Kensuke Kurosaki and the others."
+          ]
+        },
+        "Name": "Yuuya Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Joined his classmates in searching for a way out",
+            "at first, but was steadily consumed by the school's",
+            "madness as time went on."
+          ]
+        },
+        "Name": "Yuuya Kizami",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A seventh-grader at Musashigawa Girls' Middle School",
+            "and a prominent member of its drama club. Performed",
+            "Sachiko Ever After with her fellow club members."
+          ]
+        },
+        "Name": "Nana Ogasawara",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "しまった。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Joined forces with Chihaya Yamase and Nari Amatoya",
+            "in a vain search through the halls of Heavenly Host",
+            "for her other missing classmates."
+          ]
+        },
+        "Name": "Nana Ogasawara",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "An eleventh-grader at Byakudan Senior High School.",
+            "Went to Heavenly Host Elementary with Yuuya Kizami",
+            "and his other classmates."
+          ]
+        },
+        "Name": "Kensuke Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A childhood friend of Yuuya Kizami's, though Kizami",
+            "has already lost his mind by the time the two of",
+            "them reunite."
+          ]
+        },
+        "Name": "Kensuke Kurosaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A skilled cameraman who works as Kou Kibiki's",
+            "assistant. Came to Heavenly Host with his boss,",
+            "but the two of them quickly got separated."
+          ]
+        },
+        "Name": "Shougo Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "After learning of Kibiki and Naho's deaths, he swore",
+            "to them both that he'd perform his duties as camera-",
+            "man to the bitter end, no matter what."
+          ]
+        },
+        "Name": "Shougo Taguchi",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "— Przedstawienie postaci —",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Skieruj się w stronę postaci i zbadaj ją,",
+            "by dowiedzieć się o niej więcej.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gdy zechcesz opuścić przedstawienie postaci,",
+            "przejdź przez drzwi w prawym dolnym rogu.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "17-letni uczeń drugiego roku w Akademii Lutowej",
+            "oraz główny bohater. Pomimo swojej bojaźliwości",
+            "jest uprzejmy i troskliwy w stosunku do najbliższych."
+          ]
+        },
+        "Name": "Satoshi Mochida",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Przeniesiono.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ponadto jego osobowość przyciąga osoby",
+            "z jego otoczenia, sam często naturalnie",
+            "przyjmuje rolę lidera w klasie."
+          ]
+        },
+        "Name": "Satoshi Mochida",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Jedynie popularna wśród dziewcząt Naomi",
+            "przewyższa jego umiejętności przywódcze,",
+            "nad czym ubolewa chłopak."
+          ]
+        },
+        "Name": "Satoshi Mochida",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "17-letni kolega Satoshiego z klasy 2-9.",
+            "Pomimo pokręconej osobowości i sarkazmu ",
+            "jest szczery względem innych oraz siebie samego."
+          ]
+        },
+        "Name": "Yoshiki Kishinuma",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...szczery względem innych oraz siebie samego.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Rzadko uczestniczy w wydarzeniach, choć ulega",
+            "i zakrada się na te, w których udział biorą",
+            "Satoshi i Ayumi."
+          ]
+        },
+        "Name": "Yoshiki Kishinuma",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...Satoshi i Ayumi.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Z powodów rodzinnych obecnie mieszka sam",
+            "w tanim mieszkaniu i pracuje na pół etatu.",
+            ""
+          ]
+        },
+        "Name": "Yoshiki Kishinuma",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "17-letnia przewodnicząca klasy, do której",
+            "uczęszcza Satoshi. Uwielbia straszyć innych,",
+            "często opowiada straszne historie."
+          ]
+        },
+        "Name": "Ayumi Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Krążą pogłoski, że zawsze w torbie nosi ze sobą",
+            "świece i gadżety związane z horrorem.",
+            ""
+          ]
+        },
+        "Name": "Ayumi Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Jednak wprawdzie zdaje się to być",
+            "nieświadomą fasadą, pod którą kryje ona",
+            "swoją tchórzliwość."
+          ]
+        },
+        "Name": "Ayumi Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Cechuje ją także paraliżujące oraz osłupiające",
+            "tchórzostwo w chwilach, gdy postawiona jest",
+            "przed rzeczywistym przerażającym widokiem."
+          ]
+        },
+        "Name": "Ayumi Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "16-letni kolega z klasy Satoshiego, członek",
+            "kółka teatralnego. Razem z Mayu uczęszczają",
+            "na koło od gimnazjum, są jak brat z siostrą."
+          ]
+        },
+        "Name": "Sakutaro Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...są jak brat z siostrą.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Pomimo ogromnej pasji do teatru ma problemy z komunikacją z innymi, przez co często izoluje się od otoczenia.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Sakutaro Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...przez co często izoluje się od otoczenia.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ceni sobie imię nadane mu przez dziadka,",
+            "zazwyczaj jest spokojny i opanowany, dopóki ktoś",
+            "nie zacznie stroić sobie żartów z jego imienia."
+          ]
+        },
+        "Name": "Sakutaro Morishige",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...stroić sobie żartów z jego imienia.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "16-letnia koleżanka z klasy Satoshiego, członkini",
+            "koła teatralnego. Pomimo swojej krępej budowy",
+            "jest żywa, wesoła i powszechnie lubiana."
+          ]
+        },
+        "Name": "Mayu Suzumoto",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...powszechnie lubiana.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Dzięki swojej niewinności lubiana jest zarówno",
+            "przez dziewczynki jak i chłopców, przez to że",
+            "otwiera się na każdego bez uprzedzeń."
+          ]
+        },
+        "Name": "Mayu Suzumoto",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Wydaje się być zaskoczona nagłą decyzją",
+            "o zmianie szkoły z powodów rodzinnych.",
+            ""
+          ]
+        },
+        "Name": "Mayu Suzumoto",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "To niczym nie wyróżniająca się ławka.",
+            "Nie ma w niej nic dziwnego.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Ma 16 lat. Z Satoshim zna się od gimnazjum, do dziś są razem w klasie. Witają się słowami: „no nie, znowu ty?”.",
+            "",
+            ""
+          ]
+        },
+        "Name": "Naomi Nakashima",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...„no nie, znowu ty?”.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Jej ojciec zmarł kilka lat temu, została teraz",
+            "z matką, z którą wzajemnie się wspierają.",
+            ""
+          ]
+        },
+        "Name": "Naomi Nakashima",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Marzy o zostaniu opiekunką do dzieci, dlatego",
+            "uczy się ciężko, by dostać się",
+            "na specjalizującą się w tym uczelnię."
+          ]
+        },
+        "Name": "Naomi Nakashima",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "14-letnia uczennica drugiego roku w Gimnazjum",
+            "Lutowym, młodsza siostra Satoshiego. Przyniosła mu parasol, przez co utknęła tu razem z nim.",
+            ""
+          ]
+        },
+        "Name": "Yuka Mochida",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...przez co utknęła tu razem z nim.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Jej rozpieszczona natura wywodząca się",
+            "z dzieciństwa została z nią aż do teraz, przez co",
+            "ludzie błędnie szacują jej realny wiek."
+          ]
+        },
+        "Name": "Yuka Mochida",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Chciałaby w końcu dorosnąć, więc czasem",
+            "stara się zachowywać dorośle, choć stan ten",
+            "nie utrzymuje się zbyt długo."
+          ]
+        },
+        "Name": "Yuka Mochida",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "16-letnia koleżanka z klasy Satoshiego.",
+            "Z Naomi mieszkają blisko siebie, przez co",
+            "chodzą do szkoły wspólnie."
+          ]
+        },
+        "Name": "Seiko Shinohara",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Dzięki swojej wesołej i nieskrępowanej",
+            "osobowości ma wielu znajomych, którzy",
+            "są skłonni wybaczać jej zaskakujące docinki."
+          ]
+        },
+        "Name": "Seiko Shinohara",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            ".",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gdy trzy lata temu matka odeszła od rodziny,",
+            "Seiko, jako jej najstarsza córka, musiała zająć",
+            "miejsce kobiety i zaopiekować się rodzeństwem."
+          ]
+        },
+        "Name": "Seiko Shinohara",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...i zaopiekować się rodzeństwem.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Możliwe, że dogaduje się z Naomi przez",
+            "podobieństwo sytuacji, w których się znalazły.",
+            "Często rozmawiają o swoich planach na przyszłość."
+          ]
+        },
+        "Name": "Seiko Shinohara",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "23-letnia świeżo upieczona absolwentka,",
+            "nauczycielka angielskiego i zastępczyni",
+            "wychowawcy klasy 2-9 w Akademii Lutowej."
+          ]
+        },
+        "Name": "Yui Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...zastępczyni wychowawcy klasy 2-9",
+            "w Akademii Lutowej.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Choć przyznaje sobie i innym, że nie jest wybitną",
+            "nauczycielką, stara się, by jej zajęcia w choć",
+            "małym stopniu można było nazwać „lekcjami”."
+          ]
+        },
+        "Name": "Yui Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...można było nazwać „lekcjami”.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Jej radosna osobowość i naturalne reakcje",
+            "są dobrze odbierane przez uczniów, którzy",
+            "z niecierpliwością oczekują godziny wychowawczej."
+          ]
+        },
+        "Name": "Yui Shishido",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "...z niecierpliwością oczekują godziny wychowawczej.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "— Przedstawienie postaci —",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Skieruj się w stronę postaci i zbadaj ją,",
+            "by dowiedzieć się o niej więcej.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Gdy zechcesz opuścić przedstawienie postaci,",
+            "przejdź przez drzwi w prawym dolnym rogu.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Do you wish to exit?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "— Przedstawienie postaci —",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Skieruj się w stronę postaci i zbadaj ją,",
+            "by dowiedzieć się o niej więcej.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Reference Room]",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "If you examine the shelves, you can view various",
+            "event graphics from the game.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "When you're done, simply speak with the blue spirit.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an album on the shelf labeled,",
+            "'Memories of Chapter 1.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thumb through it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Listen to Mobile Music Player 4?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a tape here labeled,",
+            "'Video Bonus: Message 1.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Play it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a tape here labeled,",
+            "'Video Bonus: Message 3.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Play it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "[Reference Room]",
+            "Exact minutes of your ordeal to date are stored",
+            "here, ready to be relived at will..."
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's a tape here labeled,",
+            "'Video Bonus: Message 2.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Play it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an album on the shelf labeled,",
+            "'Memories of Chapter 2.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thumb through it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an album on the shelf labeled,",
+            "'Memories of Chapter 3.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thumb through it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an album on the shelf labeled,",
+            "'Memories of Chapter 4.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thumb through it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "There's an album on the shelf labeled,",
+            "'Memories of Chapter 5.'",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Thumb through it?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Listen to Mobile Music Player 1?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Listen to Mobile Music Player 2?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "The cabinet is locked.",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Listen to Mobile Music Player 3?",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 0,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Tak",
+            "Nie",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 255,
+        "VoiceNo_high": 255,
+        "Timing": 255,
+        "VoiceAutoPage": 255,
+        "TextSpeed": 255,
+        "Button": 255,
+        "AutoPage": 255,
+        "ExtVoice": 255
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Na półce znajduje się utrwalony w formalinie",
+            "okaz żaby.",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": 0,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A victim of the serial kidnapping and murder",
+            "incident that occurred within Heavenly Host",
+            "Elementary in 1973."
+          ]
+        },
+        "Name": "Ryou Yoshizawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Was discovered with his tongue severed and his",
+            "abdomen brutally dug out by a sharp object.",
+            ""
+          ]
+        },
+        "Name": "Ryou Yoshizawa",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A victim of the serial kidnapping and murder",
+            "incident that occurred within Heavenly Host",
+            "Elementary in 1973."
+          ]
+        },
+        "Name": "Yuki Kanno",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Was discovered with her left eye smashed to a pulp",
+            "and her tongue severed.",
+            ""
+          ]
+        },
+        "Name": "Yuki Kanno",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A victim of the serial kidnapping and murder",
+            "incident that occurred within Heavenly Host",
+            "Elementary in 1973."
+          ]
+        },
+        "Name": "Tokiko Tsuji",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Was discovered with everything from the jaw up",
+            "completely cut away and missing, including her",
+            "tongue."
+          ]
+        },
+        "Name": "Tokiko Tsuji",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "The girl in the red dress. Reported to be the",
+            "sole survivor of the serial kidnapping and murder",
+            "incident of 1973."
+          ]
+        },
+        "Name": "Sachiko Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "In actuality, she's the vengeful, malevolent spirit",
+            "of a girl who was killed by Takamine Yanagihori",
+            "twenty years earlier, along with her mother."
+          ]
+        },
+        "Name": "Sachiko Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Takamine Yanagihori's son and a former teacher at",
+            "Heavenly Host. Blamed for the serial kidnapping and",
+            "murder incident. Sachiko's accomplice."
+          ]
+        },
+        "Name": "Yoshikazu Yanagihori",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "力者。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Suffered a unique mental illness of unknown origin",
+            "prior to the time of the incident, making it very",
+            "hard for him to communicate with others."
+          ]
+        },
+        "Name": "Yoshikazu Yanagihori",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Heavenly Host Elementary's principal, and",
+            "Yoshikazu's father. When the school was scheduled",
+            "to be demolished, he threw himself from its roof."
+          ]
+        },
+        "Name": "Takamine Yanagihori",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "て自殺した。",
+            "",
+            ""
+          ]
+        },
+        "Name": "",
+        "NameFlag": -1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Murderer of Yoshie and Sachiko Shinozaki, making",
+            "him the primary cause of the school's curse.",
+            ""
+          ]
+        },
+        "Name": "Takamine Yanagihori",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Sachiko Shinozaki's mother, and a nurse at Heavenly",
+            "Host Elementary at the time of her demise.",
+            ""
+          ]
+        },
+        "Name": "Yoshie Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Fell down the stairs to her death one day, and her",
+            "daughter went missing around the same time.",
+            ""
+          ]
+        },
+        "Name": "Yoshie Shinozaki",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "A spirit who's been around since long before",
+            "Heavenly Host Elementary. Known as one of the seven",
+            "wonders of Kisaragi High: 'Shimoda of the Toilet.'"
+          ]
+        },
+        "Name": "Souichiro Shimoda",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      },
+      {
+        "Message": {
+          "Array": [
+            "Lived on this land as a nobleman long before",
+            "a school was built here.",
+            ""
+          ]
+        },
+        "Name": "Souichiro Shimoda",
+        "NameFlag": 1,
+        "VoiceNo_low": 0,
+        "VoiceNo_high": 0,
+        "Timing": 1,
+        "VoiceAutoPage": 0,
+        "TextSpeed": 0,
+        "Button": 0,
+        "AutoPage": 0,
+        "ExtVoice": 0
+      }
+    ]
+  }
+}
